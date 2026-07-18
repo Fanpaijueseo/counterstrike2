@@ -1,0 +1,49 @@
+# 一、T方进攻道具
+	- ## B区
+		- ### B二层
+		  collapsed:: true
+			- #### 1. Rush快攻道具
+			  collapsed:: true
+				- [[Dust2 B区快烟]]
+				- [[Dust2 rushB闪光]]
+			- #### 2. 慢控图道具
+			  collapsed:: true
+				- [[Dust2 慢B区烟]]
+				- [[Dust2 进攻B区闪光合集]]
+				- [[Dust2 进攻B区其他道具]]
+		- ### B一层
+		  collapsed:: true
+			- [[Dust2 B1控制道具]]
+		- ###  沙地
+		  collapsed:: true
+			- [[Dust2 夹B道具]]
+		- ### 守包
+		  collapsed:: true
+			- [[Dust2 守B包补烟]]
+			- [[Dust2 守B包其他道具]]
+	- ## A区
+		- ### A大
+		  collapsed:: true
+			- [[Dust2 出A门道具]]
+			- [[Dust2 进攻A大道具]]
+		- ### A小
+			- [[Dust2 过A小门烟]]
+			- [[Dust2 进攻A小道具]]
+-
+- ## 二、CT方防守道具（后续提供区域后补充）
+	- ## B区
+		- ### 主B
+			- [[Dust2 主B常用道具]]
+			-
+		- ### 回防B区
+			- [[Dust2 回防B区道具]]
+			-
+	- ## A区
+		- ### A大
+			- [[Dust2 抢A大常用道具]]
+			- [[Dust2 防守A大道具]]
+			-
+		- ### A小
+			- [[Dust2 防守A小前点道具]]
+			- [[Dust2 防守A小后点道具]]
+			-

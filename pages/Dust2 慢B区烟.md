@@ -1,0 +1,65 @@
+# 双烟组合
+collapsed:: true
+	- ## 组合一（综合已被淘汰）
+	  collapsed:: true
+		- 投掷：两个描点均为跳投
+		- 站位：后花园台阶下右侧墙角
+		- ![image.png](../assets/image_1783908443606_0.png)
+		- 描点：前图为B门烟，后图为狗洞烟（狗洞烟容错不高，盖住左侧3/4同时向上一点）
+		- ![image.png](../assets/image_1783908734559_0.png)
+		-
+		- ![image.png](../assets/image_1783908728804_0.png)
+	-
+	- ## 组合二（后花园瓷砖）
+	  collapsed:: true
+		- 投掷：跳投=狗洞烟，W+跳投=B门烟
+		- 站位：视角拉到最低，对准瓷砖最中心
+		- ![image.png](../assets/image_1783908883403_0.png)
+		- 描点：下侧大污渍的右端和右面小污渍的下端平齐
+		- ![image.png](../assets/image_1783909273422_0.png)
+-
+- # B门烟
+  collapsed:: true
+	- ## B通小箱边（适合自助+组合闪）
+	  collapsed:: true
+		- 投掷：双键跳投
+		- 站位：对齐左侧边后W滚轮蹭上去
+		- ![image.png](../assets/image_1783909499677_0.png)
+		- 描点：大污渍左上角
+		- ![image.png](../assets/image_1783909529701_0.png)
+	-
+	- ## Jame烟（可加组合闪）
+	  collapsed:: true
+		- 投掷：直接丢
+		- 站位：贴近柱子中间
+		- ![image.png](../assets/image_1783909642836_0.png)
+		- 描点：右上角空隙，污渍平移到下端夹角
+		- ![image.png](../assets/image_1783909738135_0.png)
+		- 闪光描点：
+		- ![image.png](../assets/image_1783911476381_0.png)
+	-
+	- ## Maka烟 （比Jame烟更快，但是站位慢一点）
+	  collapsed:: true
+		- 投掷：W+双键出手
+		- 站位：贴近柱子右侧，与之平齐
+		- ![image.png](../assets/image_1783909912765_0.png)
+		- 描点：横条光斑左侧
+		- ![image.png](../assets/image_1783909947143_0.png)
+	-
+-
+-
+- # 狗洞烟
+  collapsed:: true
+	- ## RW——B区进攻
+	  collapsed:: true
+		- 投掷：瞄准后，蹲下跳投
+		- 站位：Apex闪光的柱子，中间污渍处
+		- ![image.png](../assets/image_1783911648226_0.png)
+		- 描点：-1y的左侧横线左侧瞄准污渍后蹲下跳投
+		- ![image.png](../assets/image_1783911728660_0.png){:height 693, :width 1218}
+		- 衔接Apex闪光：空隙右下角，下拉到污渍下面一点（别超过和下面污渍的中间)
+		- 投掷：跳投
+		- ![image.png](../assets/image_1783911908557_0.png)
+		-
+-
+-
