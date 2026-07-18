@@ -1,0 +1,2 @@
+# counterstrike2
+note
