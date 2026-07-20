@@ -1,12 +1,17 @@
 # 烟雾弹
+collapsed:: true
 	- ## 过点烟
+	  collapsed:: true
 		- ### 慢过点烟
+		  collapsed:: true
 			- #### 左侧丢
 				- 投掷：左键直接丢
 				- 站位：匪家左侧死角
+				  collapsed:: true
 					- ![image.png](../assets/image_1784099021377_0.png)
 					-
 				- 描点：天线夹角
+				  collapsed:: true
 					- ![image.png](../assets/image_1784099041826_0.png)
 					-
 			- #### 右侧丢
@@ -20,11 +25,13 @@
 		- ### 快过点烟
 			- ![image.png](../assets/image_1784099130841_0.png)
 			- #### 1号位
+			  collapsed:: true
 				- 投掷：双键跳投
 				- 描点：丢快烟的那个污渍
 					- ![image.png](../assets/image_1784099453019_0.png)
 			- #### 2号位（不丢，或者直接丢慢的右手）
 			- #### 3号位
+			  collapsed:: true
 				- 投掷：左键直接丢
 				- 描点：最下面的天线的右半条的中间
 					- ![image.png](../assets/image_1784099569858_0.png)
@@ -63,6 +70,7 @@
 				- 站位：出生位瞄准后向后走到准心在天线上面
 					- ![image.png](../assets/image_1784100166873_0.png)
 				- 描点：地毯右下角，尖尖朝下的那个图形向下拉到地毯底部
+				  collapsed:: true
 					- ![image.png](../assets/image_1784100149632_0.png)
 					-
 			- #### 10号位
@@ -71,4 +79,94 @@
 					- ![image.png](../assets/image_1784100240694_0.png)
 					-
 			-
+	-
+	- ## 拱门满封烟
+	  collapsed:: true
+		- 投掷：左键跳投
+		- 站位：垃圾桶左边
+		- 描点：毯子右面第二个台阶角
+		  collapsed:: true
+			- ![image.png](../assets/image_1784511646188_0.png)
+			-
+	-
+	- ## 拱门内侧烟
+	  collapsed:: true
+		- ### 垃圾桶左侧
+		  collapsed:: true
+			- 投掷：蹲着W走着左键跳投
+			- 描点：从左侧窗户的右侧上端走到下端出手（可以多走几步）
+			  collapsed:: true
+				- ![image.png](../assets/image_1784511748381_0.png)
+				-
+		- ### JEE烟
+		  collapsed:: true
+			- 投掷：W+左键跳投
+			- 站位：匪口小门右端
+			  collapsed:: true
+				- ![image.png](../assets/image_1784511834489_0.png)
+			- 描点：白色窗户右上角
+			  collapsed:: true
+				- ![image.png](../assets/image_1784511851956_0.png)
+				-
+		- ### 沙袋丢
+		  collapsed:: true
+			- 投掷：左键直接丢
+			- 站位：沙袋左边角落
+			- 描点：椰子树最右面树叶的黄色黄斑
+				- ![image.png](../assets/image_1784512212809_0.png)
+				-
+		- ### A2丢
+		  collapsed:: true
+			- 投掷：左键跳投
+			- 站位：从右往左第二个柱子
+				- ![image.png](../assets/image_1784512248390_0.png)
+			- 描点：整个白墙中间
+				- ![image.png](../assets/image_1784512262059_0.png)
+				-
+	-
+	- ## 2补VIP烟
+		- ### Snax烟
+		  collapsed:: true
+			- 投掷：描点后跑到点位后W+左键跳投
+			- 站位：匪家台阶右手
+			- 描点：左侧两个小窗户的右上角，走到地毯尖尖投掷
+			  collapsed:: true
+				- ![image.png](../assets/image_1784512423260_0.png)
+				-
+		- ### 沙袋右侧角落
+		  collapsed:: true
+			- 投掷：（蹲着）左键投掷
+			- 描点：箱子左上角
+			  collapsed:: true
+				- ![image.png](../assets/image_1784512483883_0.png)
+				-
+		- ### 中路斜坡前
+		  collapsed:: true
+			- 投掷：跑着左键丢
+			- 站位：斜坡之前
+			  collapsed:: true
+				- ![image.png](../assets/image_1784512535673_0.png)
+			- 描点：VIP最上端中间
+			  collapsed:: true
+				- ![image.png](../assets/image_1784512563736_0.png)
+				-
+		- ### 斜坡到拱门区域
+		  collapsed:: true
+			- 投掷：左键直接丢
+			- 站位：斜坡到拱门区域
+				- ![image.png](../assets/image_1784512626128_0.png)
+			- 描点：VIP框上端
+				- ![image.png](../assets/image_1784512654982_0.png)
+				-
+		- ### 拱门到下水道区域
+		  collapsed:: true
+			- 投掷：（跑着）左键投掷
+			- 站位：拱门到下水道
+			  collapsed:: true
+				- ![image.png](../assets/image_1784512763647_0.png)
+				-
+			- 描点：VIP里侧上端
+			  collapsed:: true
+				- ![image.png](../assets/image_1784512782942_0.png)
+				-
 -

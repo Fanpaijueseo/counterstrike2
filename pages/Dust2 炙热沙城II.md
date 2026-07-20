@@ -18,7 +18,6 @@
 		  collapsed:: true
 			- [[Dust2 夹B道具]]
 		- ### 守包
-		  collapsed:: true
 			- [[Dust2 守B包补烟]]
 			- [[Dust2 守B包其他道具]]
 	- ## A区
@@ -46,4 +45,5 @@
 		- ### A小
 			- [[Dust2 防守A小前点道具]]
 			- [[Dust2 防守A小后点道具]]
-			-
+		- ### 回防
+			- [[Dust2 A区回防道具]]
