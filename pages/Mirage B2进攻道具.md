@@ -19,6 +19,7 @@
 			  collapsed:: true
 				- ![image.png](../assets/image_1784513056836_0.png)
 				-
+	-
 	- ## 超市门口烟
 	  collapsed:: true
 		- 投掷：W+左键跳投
@@ -34,6 +35,7 @@
 		- 描点：第一颗污渍下方，第二颗灯柱下方
 			- ![image.png](../assets/image_1784513493458_0.png)
 			- ![image.png](../assets/image_1784513499881_0.png)
+	-
 	- ## 910闪
 	  collapsed:: true
 		- 投掷：左键直接丢

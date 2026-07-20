@@ -1,5 +1,4 @@
 # 烟雾弹
-collapsed:: true
 	- ## 过点烟
 	  collapsed:: true
 		- ### 慢过点烟
@@ -124,7 +123,7 @@ collapsed:: true
 				- ![image.png](../assets/image_1784512262059_0.png)
 				-
 	-
-	- ## 2补VIP烟
+	- ## 二补VIP烟
 		- ### Snax烟
 		  collapsed:: true
 			- 投掷：描点后跑到点位后W+左键跳投
@@ -133,6 +132,7 @@ collapsed:: true
 			  collapsed:: true
 				- ![image.png](../assets/image_1784512423260_0.png)
 				-
+		-
 		- ### 沙袋右侧角落
 		  collapsed:: true
 			- 投掷：（蹲着）左键投掷
@@ -140,6 +140,7 @@ collapsed:: true
 			  collapsed:: true
 				- ![image.png](../assets/image_1784512483883_0.png)
 				-
+		-
 		- ### 中路斜坡前
 		  collapsed:: true
 			- 投掷：跑着左键丢
@@ -150,6 +151,7 @@ collapsed:: true
 			  collapsed:: true
 				- ![image.png](../assets/image_1784512563736_0.png)
 				-
+		-
 		- ### 斜坡到拱门区域
 		  collapsed:: true
 			- 投掷：左键直接丢
@@ -158,6 +160,7 @@ collapsed:: true
 			- 描点：VIP框上端
 				- ![image.png](../assets/image_1784512654982_0.png)
 				-
+		-
 		- ### 拱门到下水道区域
 		  collapsed:: true
 			- 投掷：（跑着）左键投掷
