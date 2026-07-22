@@ -36,15 +36,15 @@
 				- ![image.png](../assets/image_1784120210572_0.png)
 				-
 			- 描点：草棚从下往上最突出的一块向右拉一点
-				- ![image.png](../assets/image_1784120248453_0.png)
+				- ![image.png](../assets/image_1784120248453_0.png){:height 291, :width 503}
 				-
 		-
 		- ### B8反清闪
 			- 投掷：左键直接丢
 			- 站位：A小箱子外侧
 				- ![image.png](../assets/image_1784120636851_0.png)
-			- 描点：左侧时候和下面草棚的延长
-				- ![image.png](../assets/image_1784120668867_0.png)
+			- 描点：左侧石头和下面草棚的延长
+				- ![image.png](../assets/image_1784120668867_0.png){:height 291, :width 503}
 				-
 		-
 		- ## 垃圾自助闪（没人配合自己顶A小玩）

@@ -10,13 +10,12 @@
 		-
 		- ### 出生位快烟
 			- 站位：如图
-			  collapsed:: true
 				- ![image.png](../assets/image_1784011668501_0.png)
 			- #### 12号位
 			  collapsed:: true
 				- 投掷：W+跳投
 				- 描点：最高房的中间棱
-					- ![image.png](../assets/image_1784011713126_0.png)
+					- ![image.png](../assets/image_1784011713126_0.png){:height 274, :width 473}
 			- #### 11号位
 			  collapsed:: true
 				- 投掷：W+跳投
@@ -24,15 +23,12 @@
 					- ![image.png](../assets/image_1784011785685_0.png)
 					-
 			- #### 13号位
-			  collapsed:: true
 				- 方法1：雨棚烟
 					- 投掷：W+跳投
 					- 描点：最高房的右侧棱，平移到和水管的中间
-					  collapsed:: true
 						- ![image.png](../assets/image_1784011829808_0.png)
 						-
 				- 方法2：路上烟
-				  collapsed:: true
 					- 投掷：左键跳投
 					- 描点：下方UI右侧和长方形条对齐
 						- ![image.png](../assets/image_1784014573057_0.png)

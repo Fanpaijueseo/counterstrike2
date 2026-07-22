@@ -21,11 +21,10 @@
 				-
 	-
 	- ## 超市门口烟
-	  collapsed:: true
 		- 投掷：W+左键跳投
 		- 站位：B2经典爆弹位
-		- 描点：眺望塔和红墙夹角
-			- ![image.png](../assets/image_1784513278122_0.png)
+		- 描点：眺望塔和红墙夹角左侧石墩
+			- ![image.png](../assets/image_1784687915448_0.png)
 			-
 - # 闪光弹
 	- ## Kxysan组合闪
