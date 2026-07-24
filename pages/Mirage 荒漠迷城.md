@@ -5,8 +5,13 @@
 	- ## B区
 		- [[Mirage B2进攻道具]]
 		- [[Mirage B2守包道具]]
+		- [[Mirage 进攻B小道具]]
 		-
 	- ### A区
 		- [[Mirage A区爆弹]]
+		- [[Mirage 进攻拱门道具]]
 		-
-	-
+- # 二、CT方防守道具
+	- ## 中路
+		- [[Mirage ct控中道具]]
+		-

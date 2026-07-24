@@ -81,10 +81,9 @@
 	-
 	- ## 拱门满封烟
 	  collapsed:: true
-		- 投掷：左键跳投
+		- 投掷：蹲着左键跳投
 		- 站位：垃圾桶左边
 		- 描点：毯子右面第二个台阶角
-		  collapsed:: true
 			- ![image.png](../assets/image_1784511646188_0.png)
 			-
 	-
@@ -163,7 +162,7 @@
 		-
 		- ### 拱门到下水道区域
 		  collapsed:: true
-			- 投掷：（跑着）左键投掷
+			- 投掷：（蹲着）左键投掷
 			- 站位：拱门到下水道
 			  collapsed:: true
 				- ![image.png](../assets/image_1784512763647_0.png)
@@ -172,4 +171,13 @@
 			  collapsed:: true
 				- ![image.png](../assets/image_1784512782942_0.png)
 				-
+		-
+		- ### 下水道丢
+		  collapsed:: true
+			- 投掷：蹲着左键跳投
+			- 站位：下水道拐角贴死
+			  collapsed:: true
+				- ![image.png](../assets/image_1784721749339_0.png)
+			- 描点：横线向左下角平移一个污渍的距离
+				- ![image.png](../assets/image_1784721790772_0.png)
 -
