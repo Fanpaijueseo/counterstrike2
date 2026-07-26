@@ -3,7 +3,6 @@
 		- 投掷：跑着双键投掷
 		- 站位：没出ct双架箱子
 		- 描点：从上面跑到下面点
-		  collapsed:: true
 			- ![image.png](../assets/image_1784040223536_0.png)
 			-
 - # 闪光弹
