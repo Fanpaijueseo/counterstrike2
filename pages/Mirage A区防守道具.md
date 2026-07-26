@@ -1,19 +1,21 @@
 # 燃烧弹
 collapsed:: true
 	- ## A1火（开局丢）
+	  collapsed:: true
 		- 投掷：跑着左键投掷
 		- 站位：警家到长箱区域
-		- 描点：A1上面黑色污渍区域
-			- ![image.png](../assets/image_1785043840355_0.png)
-			-
+		- 描点：A1上面柱子和电线中间
+			- ![image.png](../assets/image_1785045204489_0.png)
 	-
 	- ## 匪跳火
+	  collapsed:: true
 		- 投掷：W跑一步+左键跳投
 		- 站位：Jungle死角
 		- 描点：阴影下端到白线
 			- ![image.png](../assets/image_1785044043537_0.png)
 	-
 	- ## A1深火（阻挡后续补枪踩出来）
+	  collapsed:: true
 		- 投掷：W跑一步+左键跳投
 		- 站位：Jungle死角
 		- 描点：白线到阴影上端
