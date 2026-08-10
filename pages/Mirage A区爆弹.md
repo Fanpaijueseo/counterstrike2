@@ -1,4 +1,5 @@
 # 烟雾弹
+collapsed:: true
 	- ## Kxysan跳台&上下
 	  collapsed:: true
 		- 投掷：均为左键跳投
@@ -53,6 +54,7 @@
 			- ![image.png](../assets/image_1784690747558_0.png)
 			-
 - # 闪光弹
+  collapsed:: true
 	- ## 改良灯柱闪（白跳台）
 	  collapsed:: true
 		- 投掷：左键直接丢
@@ -79,6 +81,15 @@
 		  collapsed:: true
 			- ![image.png](../assets/image_1784690296590_0.png)
 			-
+	-
+	- ## 清理A1里侧近点
+	  collapsed:: true
+		- 投掷：左键跳投
+		- 站位：墙壁和木栏之间再多出一个木栏的距离
+		- 描点：三角光斑下端
+			- ![image.png](../assets/image_1786372180670_0.png)
+			-
+		-
 - # 燃烧弹
 	- ## 三明治火
 	  collapsed:: true
@@ -89,9 +100,9 @@
 			- ![image.png](../assets/image_1784690408523_0.png)
 	-
 	- ## 跳台火
-	  collapsed:: true
 		- 投掷：静步走到位左键跳投
 		- 站位：抵住木条左端
-		- 描点：黑线左端和下方白线为起点，走过一个砖块为终点
-			- ![image.png](../assets/image_1784690626332_0.png)
+		- 描点：白斑和黑线的中间
+		  黑线左端和下方白线为起点，走过一个砖块为终点
+			- ![image.png](../assets/image_1784690626332_0.png){:height 308, :width 533}
 			-

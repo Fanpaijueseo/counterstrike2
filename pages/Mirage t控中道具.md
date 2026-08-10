@@ -22,6 +22,7 @@
 					- ![image.png](../assets/image_1784099103130_0.png)
 					-
 		- ### 快过点烟
+		  collapsed:: true
 			- ![image.png](../assets/image_1784099130841_0.png)
 			- #### 1号位
 			  collapsed:: true
@@ -123,6 +124,7 @@
 				-
 	-
 	- ## 二补VIP烟
+	  collapsed:: true
 		- ### Snax烟
 		  collapsed:: true
 			- 投掷：描点后跑到点位后W+左键跳投
@@ -180,4 +182,21 @@
 				- ![image.png](../assets/image_1784721749339_0.png)
 			- 描点：横线向左下角平移一个污渍的距离
 				- ![image.png](../assets/image_1784721790772_0.png)
+	-
+	- ## 匪口丢VIP烟
+	  collapsed:: true
+		- 投掷：左键跳投
+		- 站位：匪口二楼上面木栏抵住
+		- 描点：蓝色污渍缺口
+			- ![image.png](../assets/image_1786362452806_0.png)
+			-
 -
+- # 闪光弹
+	- ## Wdf拱门闪
+		- 投掷：左键直接丢
+		- 站位：箱子上端和木条距离相同
+		- 描点：下面木条的黑色斑点
+		  collapsed:: true
+			- ![image.png](../assets/image_1786362230517_0.png)
+			-
+	-

@@ -27,15 +27,24 @@ collapsed:: true
 	- ## 清A1闪
 	  collapsed:: true
 		- ### Jungle丢
+		  collapsed:: true
 			- 投掷：W跑一步+左键跳投
 			- 描点：白线到阴影上端
 		-
 		- ### 259闪
+		  collapsed:: true
 			- 投掷：左键直接丢
 			- 站位：长箱两个箱子中间
 			- 描点：A1上面木条右端
 				- ![image.png](../assets/image_1785044208180_0.png)
 				-
+		-
+		- ### 黑闪闪光
+		  collapsed:: true
+			- 投掷：静步走一步左键跳投
+			- 站位：Ropz位
+			- 描点：长箱单词下面
+				- ![image.png](../assets/image_1786372541677_0.png)
 	-
 	- ## Jungle保命闪
 	  collapsed:: true

@@ -24,7 +24,6 @@ collapsed:: true
 			- 描点：视角拉到最上面，丢完跑到右面
 -
 - # 闪光弹
-  collapsed:: true
 	- ## 长箱闪（第一时间让对面缓慢一点）
 	  collapsed:: true
 		- 投掷：左键跑着跳投

@@ -1,7 +1,5 @@
 # 烟雾弹
-collapsed:: true
 	- ## 警家烟
-	  collapsed:: true
 		- ### X箱
 		  collapsed:: true
 			- 投掷：蹲着左键跳投
@@ -22,10 +20,8 @@ collapsed:: true
 				-
 		-
 		- ### A小门柱子右侧
-		  collapsed:: true
 			- 投掷：左键跳投
 			- 站位：如图
-			  collapsed:: true
 				- ![image.png](../assets/image_1784023355030_0.png)
 				-
 			- 描点：中门门梁与墙壁交界处

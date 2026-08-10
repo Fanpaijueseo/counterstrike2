@@ -25,7 +25,6 @@
 -
 - # 燃烧弹/手雷
 	- ## 大箱火各种丢法
-	  collapsed:: true
 		- ### Niko跑丢死donk
 		  collapsed:: true
 			- 投掷：跑着左键投掷
@@ -38,7 +37,6 @@
 				- ![image.png](../assets/image_1784041886519_0.png)
 				-
 		- ### 沙地小竖条窗户（那个圆圆的是B通烟）
-		  collapsed:: true
 			- 投掷：双键跳投
 			- 站位：对齐这个窗户
 			  collapsed:: true
@@ -61,14 +59,11 @@
 			-
 	-
 	- ## 高箱包点火
-	  collapsed:: true
 		- 投掷：双键跳投
 		- 站位：沙地前面那个柱子
-		  collapsed:: true
 			- ![image.png](../assets/image_1784042593059_0.png)
 		- 描点：地下第一个石头
-		  collapsed:: true
-			- ![image.png](../assets/image_1784042619460_0.png)
+			- ![image.png](../assets/image_1784042619460_0.png){:height 308, :width 533}
 			-
 - # 闪光弹
 	- ## 沙地凹槽丢（同样描点是死点火）

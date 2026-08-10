@@ -9,6 +9,7 @@
 			-
 -
 - # 燃烧弹
+  collapsed:: true
 	- ## 近点+假门双烧火
 	  collapsed:: true
 		- 投掷：蹲着描点，后走半步投掷（差不多到中间）
