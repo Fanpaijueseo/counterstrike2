@@ -9,7 +9,6 @@
 			-
 -
 - # 闪光弹
-  collapsed:: true
 	- ## 防Rush保活
 	  collapsed:: true
 		- 投掷：左键直接丢

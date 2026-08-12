@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["Mirage 荒漠迷城" "Dust2 炙热沙城II"]
+ :favorites ["Inferno 炼狱小镇" "Mirage 荒漠迷城" "Dust2 炙热沙城II"]
 
  ;; Set flashcards interval.
  ;; Expected value:

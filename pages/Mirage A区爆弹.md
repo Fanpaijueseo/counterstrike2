@@ -1,5 +1,4 @@
 # 烟雾弹
-collapsed:: true
 	- ## Kxysan跳台&上下
 	  collapsed:: true
 		- 投掷：均为左键跳投
@@ -19,6 +18,7 @@ collapsed:: true
 		  第二颗为链接烟，为上方石墩中间偏左
 			- ![image.png](../assets/image_1784688642130_0.png)
 			- ![image.png](../assets/image_1784688648732_0.png)
+		- 点跳台上&下
 	-
 	- ## Navi瀑布烟 上&下
 	  collapsed:: true
@@ -52,6 +52,15 @@ collapsed:: true
 		- 描点：如图的方框上端中间
 		  collapsed:: true
 			- ![image.png](../assets/image_1784690747558_0.png)
+			-
+	-
+	- ## 匪跳补跳台上&下
+	  collapsed:: true
+		- 投掷：左键直接丢
+		- 站位：匪跳最下面
+		- 描点：第一颗上，正方形右下角一点；第二颗下，阴影中间
+			- ![image.png](../assets/image_1786537232038_0.png)
+			- ![image.png](../assets/image_1786537238816_0.png)
 			-
 - # 闪光弹
   collapsed:: true
@@ -91,6 +100,7 @@ collapsed:: true
 			-
 		-
 - # 燃烧弹
+  collapsed:: true
 	- ## 三明治火
 	  collapsed:: true
 		- 投掷：左键直接丢

@@ -84,3 +84,21 @@ collapsed:: true
 				- ![image.png](../assets/image_1785044633327_0.png)
 				-
 		-
+-
+- # 烟雾弹
+	- ## B小补拱门烟
+	  collapsed:: true
+		- 投掷：左键直接丢
+		- 站位：B小箱子死角
+		- 描点：蓝色棚子和箱子的中间
+			- ![image.png](../assets/image_1786536581210_0.png)
+			-
+	-
+	- ## 警家补拱门烟
+	  collapsed:: true
+		- 投掷：左键直接丢
+		- 站位：警亭附近
+		- 描点：叶子中间
+		  collapsed:: true
+			- ![image.png](../assets/image_1786536708213_0.png)
+			-
