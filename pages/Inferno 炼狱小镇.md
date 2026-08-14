@@ -4,4 +4,6 @@
 		- [[Inferno B点爆弹道具]]
 	- ## A区
 		- [[Inferno T中路控制道具]]
+		- [[Inferno A区进攻道具]]
+		- [[Inferno A区守包道具]]
 -

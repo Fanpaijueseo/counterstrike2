@@ -1,5 +1,6 @@
 # 烟雾弹
 	- ## T字路口烟
+	  collapsed:: true
 		- ### 匪口丢
 		  collapsed:: true
 			- 投掷：左键跳投
@@ -22,12 +23,21 @@
 				-
 	-
 	- ## 链接烟
+	  collapsed:: true
 		- ### 中路矮墙前丢
 		  collapsed:: true
-			- 投掷：左键跳投
-			- 描点：栏杆里端点向下拉到第二层白色阳台
-				- ![image.png](../assets/image_1786625863931_0.png)
-				-
+			- #### 防被顶
+			  collapsed:: true
+				- 投掷：左键跳投
+				- 描点：栏杆里端点向下拉到第二层白色阳台
+					- ![image.png](../assets/image_1786625863931_0.png)
+					-
+			- #### Device链接烟
+			  collapsed:: true
+				- 投掷：W+左键跳投
+				- 描点：两个窗户中间阴影和水管交界处
+					- ![image.png](../assets/image_1786689553513_0.png)
+					-
 		-
 		- ### VIP阳台丢
 		  collapsed:: true
@@ -64,3 +74,75 @@
 			  collapsed:: true
 				- ![image.png](../assets/image_1786626312148_0.png)
 				-
+		-
+		- ### 顺手提速丢
+		  collapsed:: true
+			- #### VIP下
+			  collapsed:: true
+				- 投掷：左键跳投
+				- 站位：刚和墙壁盖住（上面方框块漏完）
+				- 描点：污渍向左平移到卷帘门
+					- ![image.png](../assets/image_1786689699512_0.png)
+					-
+			-
+			- #### Jame烟
+			  collapsed:: true
+				- 投掷：W走一步左键跳投
+				- 站位：盖住这个窗户
+				  collapsed:: true
+					- ![image.png](../assets/image_1786689837879_0.png)
+				- 描点：栏杆横线右端
+				  collapsed:: true
+					- ![image.png](../assets/image_1786689864876_0.png)
+					-
+	-
+	- ## 马棚上下烟
+	  collapsed:: true
+		- 投掷：W跑着左键跳投
+		- 站位：VIP下红墙中间
+		  collapsed:: true
+			- ![image.png](../assets/image_1786691775282_0.png)
+		- 描点：路灯上跑到下
+		  collapsed:: true
+			- ![image.png](../assets/image_1786691797596_0.png)
+			-
+- # 闪光弹
+	- ## A1闪光（不白架缝）
+	  collapsed:: true
+		- 投掷：左键直接丢
+		- 站位：下水道前面
+		  collapsed:: true
+			- ![image.png](../assets/image_1786690510657_0.png)
+		- 描点：右手房子小白色房檐的高度外拉一点
+		  collapsed:: true
+			- ![image.png](../assets/image_1786690553384_0.png)
+			-
+	-
+	- ## 链接闪（白链接架缝）
+	  collapsed:: true
+		- 投掷：左键跳投
+		- 站位：中路小矮墙侧边
+		- 描点：蓝色牌子右上角
+		  collapsed:: true
+			- ![image.png](../assets/image_1786690651510_0.png)
+			-
+	-
+- # 燃烧弹
+	- ## 链接大凹槽
+	  collapsed:: true
+		- 投掷：左键直接丢
+		- 站位：盖住这个右墙
+		  collapsed:: true
+			- ![image.png](../assets/image_1786691586050_0.png)
+		- 描点：左窗户下面深色区域的下面那个白砖中间
+		  collapsed:: true
+			- ![image.png](../assets/image_1786691673830_0.png)
+			-
+	- ## 马棚上下火
+	  collapsed:: true
+		- 投掷：左键直接丢
+		- 站位：路灯底部有个白班漏出来
+			- ![image.png](../assets/image_1786691920372_0.png)
+		- 描点：房檐瓦片中间偏左一点
+			- ![image.png](../assets/image_1786691936051_0.png)
+			-
