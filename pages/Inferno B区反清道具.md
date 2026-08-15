@@ -33,18 +33,18 @@ collapsed:: true
 		-
 -
 - # CT反清一套
-  collapsed:: true
 	- 站位：裂纹中间，同时中间柱子和绿色窗户中间对齐
 	  collapsed:: true
 		- ![image.png](../assets/image_1786779595591_0.png)
 		-
-	- 石板后烟雾：双键跳投
+	- 石板后烟雾：左键直接丢
 	  collapsed:: true
-		- ![image.png](../assets/image_1786779632493_0.png)
+		- ![image.png](../assets/image_1786781953995_0.png)
+		-
 	- 石板后火：左键直接丢
 	  collapsed:: true
 		- ![image.png](../assets/image_1786779645970_0.png)
-	- 黄墙闪：双键跳投
-	  collapsed:: true
-		- ![image.png](../assets/image_1786779662947_0.png)
+	- 黄墙闪：W跑着右键跳投
+		- ![image.png](../assets/image_1786782394102_0.png)
+		-
 		-
