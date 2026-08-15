@@ -11,5 +11,9 @@
 		- [[Inferno CT中路控制道具]]
 		-
 	- ## B区
+		- [[Inferno CT抢香蕉道]]
 		- [[Inferno B区反清道具]]
 		- [[Inferno 香蕉道防守道具]]
+		- [[Inferno B区回防道具]]
+	- ## A区
+		- [[Inferno A区回防道具]]

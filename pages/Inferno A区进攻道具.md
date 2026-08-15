@@ -5,10 +5,8 @@
 		  collapsed:: true
 			- 投掷：W+左键跳投
 			- 站位：匪口中路最右后方
-			  collapsed:: true
 				- ![image.png](../assets/image_1786692523895_0.png)
 			- 描点：黑色第二个点
-			  collapsed:: true
 				- ![image.png](../assets/image_1786692542028_0.png)
 				-
 		-
@@ -16,11 +14,9 @@
 		  collapsed:: true
 			- 投掷：左键直接丢
 			- 站位：两个缝隙之间都可以
-			  collapsed:: true
 				- ![image.png](../assets/image_1786692595513_0.png)
 				-
 			- 描点：两个房檐交点
-			  collapsed:: true
 				- ![image.png](../assets/image_1786692613018_0.png)
 				-
 		-
@@ -37,11 +33,9 @@
 			- #### 水管小蜜蜂
 			  collapsed:: true
 				- 站位：矮墙前水管
-				  collapsed:: true
 					- ![image.png](../assets/image_1786692932728_0.png)
 				- 投掷：左键跳投
 				- 描点：灯泡最下面
-				  collapsed:: true
 					- ![image.png](../assets/image_1786692961038_0.png)
 					-
 			-
@@ -68,9 +62,17 @@
 			- 投掷：左键直接丢
 			- 站位：左边房子的右侧房檐漏出来一点
 			- 描点：灯柱横线和白色屋檐交点
-			  collapsed:: true
 				- ![image.png](../assets/image_1786693458370_0.png)
 			-
+		-
+		- ### 匪口丢
+		  collapsed:: true
+			- 投掷：左键跳投
+			- 站位：中路矮墙后
+			- 描点：头顶第一个结点和第二个结点之间
+			  collapsed:: true
+				- ![image.png](../assets/image_1786813089705_0.png)
+				-
 	-
 	- ## 草车烟
 	  collapsed:: true
@@ -89,14 +91,22 @@
 		- 描点：花盆/门框右下角
 			- ![image.png](../assets/image_1786777935016_0.png)
 			-
+	-
+	- ## 书房烟
+		- ### 匪口丢
+		  collapsed:: true
+			- 投掷：左键跳投
+			- 站位：中路矮墙台阶后
+			- 描点：天线黑点
+				- ![image.png](../assets/image_1786813145659_0.png)
+				-
 - # 燃烧弹
 	- ## 阳台火
-	  collapsed:: true
 		- ### 锅炉房丢
+		  collapsed:: true
 			- 投掷：左键直接丢
 			- 站位：锅炉房右边木条中间
 			- 描点：左面和第二个砖块中间平齐，下面和最粗的天线平齐
-			  collapsed:: true
 				- ![image.png](../assets/image_1786776687736_0.png)
 				-
 		-
@@ -104,6 +114,7 @@
 		  collapsed:: true
 			- 投掷：W+左键跳投
 			- 站位：路灯正下面
+			  collapsed:: true
 				- ![image.png](../assets/image_1786776719773_0.png)
 			- 描点：黑砖块右上角
 				- ![image.png](../assets/image_1786776732091_0.png)
@@ -147,8 +158,33 @@
 			- 投掷：左键跳投
 			- 站位：锅炉房右边木条中间
 			- 投掷：黑色方框左下角&左上角（第一个背闪）
+			  collapsed:: true
 				- ![image.png](../assets/image_1786777787903_0.png)
 				-
+		-
+		- ### A1高箱后单项闪
+		  collapsed:: true
+			- 投掷：左键直接丢
+			- 站位：A2口抵住左后面
+			  collapsed:: true
+				- ![image.png](../assets/image_1786809932468_0.png)
+			- 描点：路灯根部圆点
+			  collapsed:: true
+				- ![image.png](../assets/image_1786809968159_0.png)
+				-
+			-
+		-
+		- ### 草车闪
+		  collapsed:: true
+			- 投掷：左键直接丢
+			- 站位：A1不漏大坑
+			- 描点：两个绿色窗户中间向上拉到房檐
+			  collapsed:: true
+				- ![image.png](../assets/image_1786810053520_0.png)
+				-
+			- 备注：有Ropz烟可以用X轴和-1X对准很方的那个砖块
+			  collapsed:: true
+				- ![image.png](../assets/image_1786811782831_0.png)
 	-
 	- ## A1进攻组合闪——YGG
 	  collapsed:: true
@@ -156,11 +192,13 @@
 		  collapsed:: true
 			- 投掷：W跑过左墙消失后左键跳投
 			- 站位：锅炉房口
+			  collapsed:: true
 				- ![image.png](../assets/image_1786778049698_0.png)
 			- 描点：白砖缺口处
 			  collapsed:: true
 				- ![image.png](../assets/image_1786778057297_0.png)
 				-
+		-
 		- ### 爆点在二楼台阶闪光
 		  collapsed:: true
 			- 投掷：双键跳投
@@ -168,4 +206,24 @@
 			- 描点：草车最外面的石头
 			  collapsed:: true
 				- ![image.png](../assets/image_1786778132736_0.png)
+				-
+	-
+	- ## 连接组合闪——YGG
+	  collapsed:: true
+		- 站位：卷帘拱门右侧
+		  collapsed:: true
+			- ![image.png](../assets/image_1786812723317_0.png)
+		- #### 连接前点
+		  collapsed:: true
+			- 投掷：左键直接丢
+			- 描点：双管房檐和左面房子的交点
+			  collapsed:: true
+				- ![image.png](../assets/image_1786812777889_0.png)
+				-
+		- #### 连接后点
+		  collapsed:: true
+			- 投掷：静步走一步左键跳投
+			- 描点：灯泡左面就行
+			  collapsed:: true
+				- ![image.png](../assets/image_1786812838148_0.png)
 				-

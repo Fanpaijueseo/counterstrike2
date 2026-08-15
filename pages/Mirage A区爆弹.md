@@ -62,6 +62,14 @@
 			- ![image.png](../assets/image_1786537232038_0.png)
 			- ![image.png](../assets/image_1786537238816_0.png)
 			-
+	-
+	- ## 手枪局连接烟
+	  collapsed:: true
+		- 投掷：左键跳投
+		- 站位：A1上面第二个木条前方
+		- 描点：第一根木条中间
+			- ![image.png](../assets/image_1786799499289_0.png)
+			-
 - # 闪光弹
   collapsed:: true
 	- ## 改良灯柱闪（白跳台）
@@ -100,7 +108,6 @@
 			-
 		-
 - # 燃烧弹
-  collapsed:: true
 	- ## 三明治火
 	  collapsed:: true
 		- 投掷：左键直接丢
@@ -110,9 +117,20 @@
 			- ![image.png](../assets/image_1784690408523_0.png)
 	-
 	- ## 跳台火
-		- 投掷：静步走到位左键跳投
-		- 站位：抵住木条左端
-		- 描点：白斑和黑线的中间
-		  黑线左端和下方白线为起点，走过一个砖块为终点
-			- ![image.png](../assets/image_1784690626332_0.png){:height 308, :width 533}
-			-
+		- ### 台下丢
+		  collapsed:: true
+			- 投掷：静步走到位左键跳投
+			- 站位：抵住木条左端
+			- 描点：白斑和黑线的中间
+			  collapsed:: true
+			  黑线左端和下方白线为起点，走过一个砖块为终点
+			  起始往下瞄一点，最后多走半步
+				- ![image.png](../assets/image_1784690626332_0.png){:height 308, :width 533}
+				-
+		- ### 台上丢
+		  collapsed:: true
+			- 投掷：W+左键跳投
+			- 站位：A1上面第二个木条前方
+			- 描点：大缺口下线左面和左面白竖线平分
+			  collapsed:: true
+				- ![image.png](../assets/image_1786799600954_0.png)
