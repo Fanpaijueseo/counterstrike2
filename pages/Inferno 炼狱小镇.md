@@ -6,4 +6,10 @@
 		- [[Inferno T中路控制道具]]
 		- [[Inferno A区进攻道具]]
 		- [[Inferno A区守包道具]]
--
+- # 二、CT方防守道具
+	- ## 中路
+		- [[Inferno CT中路控制道具]]
+		-
+	- ## B区
+		- [[Inferno B区反清道具]]
+		- [[Inferno 香蕉道防守道具]]

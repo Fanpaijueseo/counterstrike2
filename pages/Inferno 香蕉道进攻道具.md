@@ -72,10 +72,18 @@ collapsed:: true
 			-
 -
 - # 燃烧弹&手雷
-  collapsed:: true
-	- 投掷：W跑着左键直接丢（速度拉快）
-	- 站位：石板后面贴近右墙
-	- 描点：黄墙里侧
+	- ## 凹槽火
 	  collapsed:: true
-		- ![image.png](../assets/image_1786540066253_0.png)
-		-
+		- 投掷：W跑着左键直接丢（速度拉快）
+		- 站位：石板后面贴近右墙
+		- 描点：黄墙里侧
+		  collapsed:: true
+			- ![image.png](../assets/image_1786540066253_0.png)
+			-
+	- ## 警家雷
+	  collapsed:: true
+		- 投掷：W跑到位置后左键跳投
+		- 站位：石板后面的凹槽
+		- 描点：先蹲着从下面的污渍往下一个准心，后站起来到上面污渍
+			- ![image.png](../assets/image_1786779877843_0.png)
+			-

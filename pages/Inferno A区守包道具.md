@@ -15,10 +15,12 @@
 				-
 		-
 		- ### 草车附近
+		  collapsed:: true
 			- 投掷：左键直接丢
 			- 描点：最高的左上角房檐
 		-
 		- ### 二楼
+		  collapsed:: true
 			- 投掷：W蹲着走着左键直接丢
 			- 描点：小绿方框的左上角
 				- ![image.png](../assets/image_1786693805546_0.png)

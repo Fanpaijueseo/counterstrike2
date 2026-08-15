@@ -1,6 +1,5 @@
 # 烟雾弹
 	- ## T字路口烟
-	  collapsed:: true
 		- ### 匪口丢
 		  collapsed:: true
 			- 投掷：左键跳投
@@ -23,7 +22,18 @@
 				-
 	-
 	- ## 链接烟
-	  collapsed:: true
+		- ### 快链接烟
+		  collapsed:: true
+			- 投掷：跑着过了电线杆左键跳投
+			- 站位：中间这个台阶线
+			  collapsed:: true
+				- ![image.png](../assets/image_1786762995389_0.png)
+				-
+			- 描点：竖直天线从头跑到尾
+			  collapsed:: true
+				- ![image.png](../assets/image_1786762978000_0.png)
+				-
+		-
 		- ### 中路矮墙前丢
 		  collapsed:: true
 			- #### 防被顶
@@ -76,9 +86,7 @@
 				-
 		-
 		- ### 顺手提速丢
-		  collapsed:: true
 			- #### VIP下
-			  collapsed:: true
 				- 投掷：左键跳投
 				- 站位：刚和墙壁盖住（上面方框块漏完）
 				- 描点：污渍向左平移到卷帘门
