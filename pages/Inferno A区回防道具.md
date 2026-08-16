@@ -64,7 +64,6 @@ collapsed:: true
 			-
 	-
 	- ## 启动闪
-	  collapsed:: true
 		- 投掷：双键跳投
 		- 站位：红信箱下
 		- 描点：方形和圆形中间的月牙

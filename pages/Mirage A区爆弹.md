@@ -70,8 +70,8 @@
 		- 描点：第一根木条中间
 			- ![image.png](../assets/image_1786799499289_0.png)
 			-
+-
 - # 闪光弹
-  collapsed:: true
 	- ## 改良灯柱闪（白跳台）
 	  collapsed:: true
 		- 投掷：左键直接丢
@@ -107,6 +107,7 @@
 			- ![image.png](../assets/image_1786372180670_0.png)
 			-
 		-
+-
 - # 燃烧弹
 	- ## 三明治火
 	  collapsed:: true
@@ -117,6 +118,7 @@
 			- ![image.png](../assets/image_1784690408523_0.png)
 	-
 	- ## 跳台火
+	  collapsed:: true
 		- ### 台下丢
 		  collapsed:: true
 			- 投掷：静步走到位左键跳投
