@@ -1,6 +1,5 @@
 # 烟雾弹
 	- ## 过点烟
-	  collapsed:: true
 		- ### 慢过点烟
 		  collapsed:: true
 			- #### 左侧丢
@@ -22,7 +21,6 @@
 					- ![image.png](../assets/image_1784099103130_0.png)
 					-
 		- ### 快过点烟
-		  collapsed:: true
 			- ![image.png](../assets/image_1784099130841_0.png)
 			- #### 1号位
 			  collapsed:: true
@@ -31,10 +29,9 @@
 					- ![image.png](../assets/image_1784099453019_0.png)
 			- #### 2号位（不丢，或者直接丢慢的右手）
 			- #### 3号位
-			  collapsed:: true
 				- 投掷：左键直接丢
-				- 描点：最下面的天线的右半条的中间
-					- ![image.png](../assets/image_1784099569858_0.png)
+				- 描点：天线中间的右半黄色
+					- ![image.png](../assets/image_1787037565852_0.png)
 					-
 			- #### 4号位
 				- 投掷：左键直接丢

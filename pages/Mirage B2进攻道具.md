@@ -1,6 +1,5 @@
 # 烟雾弹
 	- ## 超市窗口烟
-	  collapsed:: true
 		- ### 中间丢
 			- 投掷：左键跳投
 			- 站位：B2路中间，和台阶线平齐
@@ -12,12 +11,10 @@
 				- ![image.png](../assets/image_1784512966361_0.png)
 				-
 		- ### 259烟（略慢）
-		  collapsed:: true
 			- 投掷：左键跳投
 			- 站位：B2经典爆弹位
 			- 描点：眺望塔窗户上段平移到棱角
-			  collapsed:: true
-				- ![image.png](../assets/image_1784513056836_0.png)
+				- ![image.png](../assets/image_1784513056836_0.png){:height 291, :width 503}
 				-
 	-
 	- ## 超市门口烟
