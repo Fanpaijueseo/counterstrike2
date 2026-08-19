@@ -1,7 +1,7 @@
 # B门快烟
-collapsed:: true
 	-
 	- ## B门烟
+	  collapsed:: true
 		- ### 最顺路的丢法
 		  collapsed:: true
 			- 投掷：拉满地速直接跑丢
@@ -13,6 +13,7 @@ collapsed:: true
 				- ![image.png](../assets/image_1783828767789_0.png)
 	-
 	- ## 狗洞快烟
+	  collapsed:: true
 		- ### 可以双弹套餐投掷（描点传烟后双弹方便）
 		  collapsed:: true
 			- 投掷：走过房檐，静步过为狗洞烟，直走过是B门烟

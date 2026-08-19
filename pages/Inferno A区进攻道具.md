@@ -1,5 +1,7 @@
 # 烟雾弹
+collapsed:: true
 	- ## 摩托烟
+	  collapsed:: true
 		- ### 匪口丢
 		  collapsed:: true
 			- 投掷：W+左键跳投
@@ -20,6 +22,7 @@
 				-
 		-
 		- ### 侧道白门丢
+		  collapsed:: true
 			- 投掷：左键跳投
 			- 站位：白门后
 			- 描点：竖直天线顶端
@@ -52,6 +55,17 @@
 				- 描点：灯泡最下面
 					- ![image.png](../assets/image_1786693073784_0.png)
 					-
+		-
+		- ### 匪二楼丢
+		  collapsed:: true
+			- 投掷：W+左键跳投
+			- 站位：匪二楼右后方死角
+			  collapsed:: true
+				- ![image.png](../assets/image_1787153153048_0.png)
+			- 描点：从左向右第三个的端头右下角
+			  collapsed:: true
+				- ![image.png](../assets/image_1787153264026_0.png)
+				-
 	-
 	- ## 拱门烟
 	  collapsed:: true
@@ -81,6 +95,17 @@
 			- 描点：小花盆三个交点
 				- ![image.png](../assets/image_1786777484522_0.png)
 				-
+		-
+		- ### 匪二楼丢
+		  collapsed:: true
+			- 投掷：左键跳投
+			- 站位：匪二楼右后方死角
+			  collapsed:: true
+				- ![image.png](../assets/image_1787153153048_0.png)
+			- 描点：L右上方的小黑点
+			  collapsed:: true
+				- ![image.png](../assets/image_1787153134723_0.png)
+				-
 	-
 	- ## 展开烟（隔绝大小坑）
 	  collapsed:: true
@@ -91,6 +116,7 @@
 			-
 	-
 	- ## 书房烟
+	  collapsed:: true
 		- ### 匪口丢
 		  collapsed:: true
 			- 投掷：左键跳投
@@ -98,7 +124,9 @@
 			- 描点：天线黑点
 				- ![image.png](../assets/image_1786813145659_0.png)
 				-
+-
 - # 燃烧弹
+  collapsed:: true
 	- ## 阳台火
 		- ### 锅炉房丢
 		  collapsed:: true
@@ -139,7 +167,9 @@
 			  collapsed:: true
 				- ![image.png](../assets/image_1786777561903_0.png)
 				-
+-
 - # 闪光弹
+  collapsed:: true
 	- ## 飞楼闪
 	  collapsed:: true
 		- ### 二楼丢

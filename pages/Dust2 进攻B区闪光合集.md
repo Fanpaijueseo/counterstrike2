@@ -5,8 +5,9 @@ collapsed:: true
 	  collapsed:: true
 		- ![image.png](../assets/image_1783912407421_0.png)
 	- 描点：长条光斑最左端
-		- ![image.png](../assets/image_1783912449151_0.png)
+		- ![image.png](../assets/image_1783912449151_0.png){:height 325, :width 563}
 	-
+-
 - ## 中间高闪（效果不如上面，但是安全）
   collapsed:: true
 	- 投掷：跳投，第二个可以W+跳投
@@ -17,6 +18,7 @@ collapsed:: true
 	  collapsed:: true
 		- ![image.png](../assets/image_1783912606960_0.png)
 	-
+-
 - ## Apex高闪 （白车大箱效果极好，描点慢）
   collapsed:: true
 	- 投掷：跳投
@@ -27,6 +29,7 @@ collapsed:: true
 	  collapsed:: true
 		- ![image.png](../assets/image_1783912764432_0.png)
 		-
+-
 - ## BC教练自助闪（自助里面容错高，偏向壮胆）
   collapsed:: true
 	- 投掷：走一步直接丢，偏向于少走点

@@ -9,13 +9,14 @@
 			-
 -
 - # 燃烧弹
-  collapsed:: true
 	- ## 近点+假门双烧火
 	  collapsed:: true
 		- 投掷：蹲着描点，后走半步投掷（差不多到中间）
 		- 站位：左侧死点，但是是在外凸的右侧
+		  collapsed:: true
 			- ![image.png](../assets/image_1783913522034_0.png)
-		- 描点：RT三角形的上侧尖尖
+		- 描点：RT三角形的上侧尖尖（往下一点）
+		  collapsed:: true
 			- ![image.png](../assets/image_1783913558597_0.png)
 			-
 	-
@@ -41,6 +42,7 @@
 		- 投掷：跑着丢
 		- 站位：B通大马路，少漏点右手
 		- 描点：高箱左侧上移到2个绿色树叶
+		  collapsed:: true
 			- ![image.png](../assets/image_1783914221385_0.png)
 	-
 	- ## 狗洞火

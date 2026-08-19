@@ -69,7 +69,6 @@
 			-
 	-
 - # 燃烧弹
-  collapsed:: true
 	- ## 清B1里侧
 	  collapsed:: true
 		- 投掷：（W走一步）左键直接丢
