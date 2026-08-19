@@ -1,5 +1,4 @@
 # 木桶一点多爆
-collapsed:: true
 	- ## 警家烟
 	  collapsed:: true
 		- 投掷：左键直接丢
@@ -8,13 +7,20 @@ collapsed:: true
 			- ![image.png](../assets/image_1786540593171_0.png)
 			-
 	-
-	- ## 棺材烟
+	- ## 棺材烟（不太好描）
 	  collapsed:: true
 		- 投掷：双键跳投
 		- 描点：e的夹角向下拉到白色斜区域
 		  collapsed:: true
 			- ![image.png](../assets/image_1786540679519_0.png)
 			-
+	-
+	- ## 棺材烟
+	  collapsed:: true
+		- 投掷：双键跳投
+		- 描点：小竖线右上角一点点点点
+		  collapsed:: true
+			- ![image.png](../assets/image_1787104878002_0.png)
 	-
 	- ## 二箱火（可以烧到一箱上）
 	  collapsed:: true
@@ -132,7 +138,6 @@ collapsed:: true
 	  collapsed:: true
 		- 投掷：左键跳投
 		- 描点：C和l上方有个N
-		  collapsed:: true
 			- ![image.png](../assets/image_1786542569125_0.png)
 			-
 	-
@@ -140,7 +145,7 @@ collapsed:: true
 	  collapsed:: true
 		- 投掷：左键跳投
 		- 描点：黑色方块左上角有个白斑的右上方
-			- ![image.png](../assets/image_1786542621858_0.png)
+			- ![image.png](../assets/image_1786542621858_0.png){:height 308, :width 533}
 			-
 	-
 	- ## 警家雷
