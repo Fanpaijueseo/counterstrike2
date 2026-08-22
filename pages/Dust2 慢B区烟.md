@@ -3,19 +3,38 @@
 	  collapsed:: true
 		- 投掷：两个描点均为跳投
 		- 站位：后花园台阶下右侧墙角
-		- ![image.png](../assets/image_1783908443606_0.png)
+		  collapsed:: true
+			- ![image.png](../assets/image_1783908443606_0.png)
 		- 描点：前图为B门烟，后图为狗洞烟（狗洞烟容错不高，盖住左侧3/4同时向上一点）
-		- ![image.png](../assets/image_1783908734559_0.png)
-		-
-		- ![image.png](../assets/image_1783908728804_0.png)
+		  collapsed:: true
+			- ![image.png](../assets/image_1783908734559_0.png)
+			- ![image.png](../assets/image_1783908728804_0.png)
 	-
 	- ## 组合二（后花园瓷砖）
 	  collapsed:: true
 		- 投掷：跳投=狗洞烟，W+跳投=B门烟
 		- 站位：视角拉到最低，对准瓷砖最中心
-		- ![image.png](../assets/image_1783908883403_0.png)
+		  collapsed:: true
+			- ![image.png](../assets/image_1783908883403_0.png)
 		- 描点：下侧大污渍的右端和右面小污渍的下端平齐
-		- ![image.png](../assets/image_1783909273422_0.png)
+		  collapsed:: true
+			- ![image.png](../assets/image_1783909273422_0.png)
+	-
+	- ## 组合三（B二楼柱子）
+	  collapsed:: true
+		- 投掷：均为左键跳投
+		- 站位：面对柱子左端
+		  collapsed:: true
+			- ![image.png](../assets/image_1787358603364_0.png)
+		- 描点：第一颗为狗洞烟——黑色小板子上面中间
+		  collapsed:: true
+		  第二颗为B门烟——黑色污渍向上拉到天空
+			- ![image.png](../assets/image_1787358671333_0.png)
+			- ![image.png](../assets/image_1787358659828_0.png)
+			-
+		- 备注：组合闪光蹲着瞄准B通右上角下面一点
+		  collapsed:: true
+			- ![image.png](../assets/image_1787358717466_0.png)
 -
 - # B门烟
 	- ## B通小箱边（适合自助+组合闪）

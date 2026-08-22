@@ -38,5 +38,6 @@ collapsed:: true
 		- ![image.png](../assets/image_1786366239875_0.png)
 		-
 	- 描点：台阶上方棱角
-		- ![image.png](../assets/image_1786366266180_0.png)
+	  collapsed:: true
+		- ![image.png](../assets/image_1786366266180_0.png){:height 325, :width 563}
 		-

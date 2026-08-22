@@ -23,8 +23,8 @@
 			- ![image.png](../assets/image_1784017557704_0.png)
 			-
 -
-- # 挂门烟
-	- ## 龙哥挂门烟
+- # 瀑布烟
+	- ## 龙哥瀑布烟
 	  collapsed:: true
 		- 投掷：蹲着瞄准后，蹲着左键跳投
 		- 站位：轮胎上方，跳的时候顶死右前方
@@ -32,7 +32,7 @@
 			- ![image.png](../assets/image_1784017944667_0.png)
 			-
 	-
-	- ## 马西西挂门烟
+	- ## 马西西瀑布烟
 	  collapsed:: true
 		- 投掷：蹲着左键跳投
 		- 站位：轮胎前站立瞄准，后移动到卷帘门前侧
@@ -44,7 +44,7 @@
 			- ![image.png](../assets/image_1784018051545_0.png)
 			-
 	-
-	- ## 载物挂门烟
+	- ## 载物瀑布烟
 	  collapsed:: true
 		- 投掷：蹲着瞄准，站起来左键跳投
 		- 站位：黄车卷帘门的前面夹角
@@ -63,7 +63,15 @@
 		  collapsed:: true
 			- ![image.png](../assets/image_1784018297835_0.png)
 			-
--
+	-
+	- ## 暗道瀑布烟
+	  collapsed:: true
+		- 投掷：左键跳投
+		- 站位：暗道死角
+		- 描点：-2y的左侧线盖住数字4的横线部分（别太往左上和中下瞄）
+		  collapsed:: true
+			- ![image.png](../assets/image_1787388815746_0.png)
+			-
 - # X箱烟
 	- ## 经典X箱烟
 	  collapsed:: true

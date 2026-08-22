@@ -1,5 +1,6 @@
 # 烟雾弹
 	- ## 警家烟
+	  collapsed:: true
 		- ### X箱
 		  collapsed:: true
 			- 投掷：蹲着左键跳投
@@ -20,6 +21,7 @@
 				-
 		-
 		- ### A小门柱子右侧
+		  collapsed:: true
 			- 投掷：左键跳投
 			- 站位：如图
 				- ![image.png](../assets/image_1784023355030_0.png)
@@ -73,6 +75,18 @@
 			- 描点：头顶木头架子向下的圆点污渍
 			  collapsed:: true
 				- ![image.png](../assets/image_1784023778329_0.png)
+				-
+		-
+		- ### 后花园丢
+		  collapsed:: true
+			- 投掷：W+左键跳投
+			- 站位：后花园外侧死点
+			  collapsed:: true
+				- ![image.png](../assets/image_1787358252100_0.png)
+				-
+			- 描点：-1y的左端瞄准方形的右上角
+			  collapsed:: true
+				- ![image.png](../assets/image_1787358228509_0.png)
 				-
 	-
 	- ## 沙地展开烟

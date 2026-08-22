@@ -59,6 +59,7 @@
 		- 投掷：左键直接丢
 		- 站位：匪跳最下面
 		- 描点：第一颗上，正方形右下角一点；第二颗下，阴影中间
+		  collapsed:: true
 			- ![image.png](../assets/image_1786537232038_0.png)
 			- ![image.png](../assets/image_1786537238816_0.png)
 			-
@@ -70,6 +71,16 @@
 		- 描点：第一根木条中间
 			- ![image.png](../assets/image_1786799499289_0.png)
 			-
+	-
+	- ## 快连接跳台烟
+	  collapsed:: true
+		- 投掷：均为左键跳投
+		- 站位：匪家楼梯左侧
+		- 描点：第一颗为跳台上烟——两个污渍中间的白色污点的右端
+		  collapsed:: true
+		  第二颗为连接烟——草棚左下角
+			- ![image.png](../assets/image_1787388037591_0.png)
+			- ![image.png](../assets/image_1787388046730_0.png)
 -
 - # 闪光弹
 	- ## 改良灯柱闪（白跳台）
