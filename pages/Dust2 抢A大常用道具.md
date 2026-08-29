@@ -19,6 +19,7 @@
 -
 - # 闪光弹
 	- ## 黑豹闪光（提醒背闪）
+	  collapsed:: true
 		- 投掷：W+跳投
 		- 站位：A大斜坡箱子前
 		  collapsed:: true
@@ -48,12 +49,12 @@
 			-
 	-
 	- ## 抢A大自助闪
+	  collapsed:: true
 		- 投掷：左键直接丢
 		- 站位：A大卷帘门贴死前点
 		  collapsed:: true
 			- ![image.png](../assets/image_1784095229200_0.png)
 			-
 		- 描点：墙壁白色交界处
-		  collapsed:: true
 			- ![image.png](../assets/image_1784095252647_0.png)
 			-

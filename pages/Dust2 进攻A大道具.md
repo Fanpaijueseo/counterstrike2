@@ -44,6 +44,7 @@
 			  collapsed:: true
 				- ![image.png](../assets/image_1784016159757_0.png)
 				-
+		-
 		- #### 蓝箱丢
 		  collapsed:: true
 			- 投掷：双键跳投

@@ -23,8 +23,9 @@
 					-
 				- 描点：天线最顶端
 				  collapsed:: true
-					- ![image.png](../assets/image_1784099103130_0.png)
+					- ![image.png](../assets/image_1784099103130_0.png){:height 274, :width 473}
 					-
+		-
 		- ### 快过点烟
 		  collapsed:: true
 			- ![image.png](../assets/image_1784099130841_0.png)
@@ -40,7 +41,7 @@
 				- 投掷：左键直接丢
 				- 描点：天线中间的右半黄色
 				  collapsed:: true
-					- ![image.png](../assets/image_1787037565852_0.png)
+					- ![image.png](../assets/image_1787037565852_0.png){:height 274, :width 473}
 					-
 			- #### 4号位
 			  collapsed:: true
@@ -211,16 +212,14 @@
 			  collapsed:: true
 				- ![image.png](../assets/image_1784721749339_0.png)
 			- 描点：横线向左下角平移一个污渍的距离
-			  collapsed:: true
-				- ![image.png](../assets/image_1784721790772_0.png)
+				- ![image.png](../assets/image_1784721790772_0.png){:height 291, :width 503}
 	-
 	- ## 匪口丢VIP烟
 	  collapsed:: true
 		- 投掷：左键跳投
 		- 站位：匪口二楼上面木栏抵住
 		- 描点：蓝色污渍缺口
-		  collapsed:: true
-			- ![image.png](../assets/image_1786362452806_0.png)
+			- ![image.png](../assets/image_1786362452806_0.png){:height 308, :width 533}
 			-
 -
 - # 闪光弹

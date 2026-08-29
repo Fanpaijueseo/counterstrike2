@@ -1,5 +1,4 @@
 # 烟雾弹
-collapsed:: true
 	- ## 大坑补A门烟
 	  collapsed:: true
 		- 投掷：W走几步+左键投掷
@@ -14,6 +13,7 @@ collapsed:: true
 		  collapsed:: true
 			- 投掷：左键直接丢
 			- 站位：如图污渍
+			  collapsed:: true
 				- ![image.png](../assets/image_1784097026813_0.png)
 			- 描点：卫星锅右面黑点
 			  collapsed:: true
@@ -36,12 +36,32 @@ collapsed:: true
 		  collapsed:: true
 			- 投掷：W+左键跳投
 			- 描点：卷帘门下面黑块的上面边的中间
+				- ![image.png](../assets/image_1784097209550_0.png){:height 291, :width 503}
+				-
+		-
+		- ### 忍者位后
+		  collapsed:: true
+			- 投掷：左键跳投
+			- 站位：如图草墩右端
 			  collapsed:: true
-				- ![image.png](../assets/image_1784097209550_0.png)
+				- ![image.png](../assets/image_1787552000796_0.png)
+			- 描点：竖着的短电线中间
+			  collapsed:: true
+				- ![image.png](../assets/image_1787552036116_0.png)
+				-
+		-
+		- ### A小（较慢）
+		  collapsed:: true
+			- 投掷：双键跳投
+			- 站位：如图夹角
+			  collapsed:: true
+				- ![image.png](../assets/image_1787552075778_0.png)
+			- 描点：房顶两个污渍中间
+			  collapsed:: true
+				- ![image.png](../assets/image_1787552090312_0.png)
 				-
 -
 - # 闪光弹
-  collapsed:: true
 	- ## 大坑自助保命闪
 	  collapsed:: true
 		- 投掷：W走一步左键投掷
@@ -64,7 +84,6 @@ collapsed:: true
 		- 投掷：蹲着右键直接丢
 		- 站位：蓝车头躲死
 		- 描点：面前卷帘门右上角
-		  collapsed:: true
 			- ![image.png](../assets/image_1784096121311_0.png)
 			-
 	-

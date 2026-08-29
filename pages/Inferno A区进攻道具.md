@@ -87,7 +87,6 @@ collapsed:: true
 				-
 	-
 	- ## 草车烟
-	  collapsed:: true
 		- ### 二楼丢
 		  collapsed:: true
 			- 投掷：左键直接丢
