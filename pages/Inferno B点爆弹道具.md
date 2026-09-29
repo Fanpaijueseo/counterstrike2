@@ -1,4 +1,7 @@
-# 木桶一点多爆
+public:: true
+
+- # 木桶一点多爆
+  collapsed:: true
 	- ## 警家烟
 	  collapsed:: true
 		- 投掷：左键直接丢

@@ -1,4 +1,7 @@
-# 套餐
+public:: true
+
+- # 套餐
+  collapsed:: true
 	- ## 沙地箱子一套
 	  collapsed:: true
 		- ![image.png](../assets/image_1784041551942_0.png)
@@ -67,6 +70,7 @@
 			-
 -
 - # 闪光弹
+  collapsed:: true
 	- ## 沙地凹槽丢（同样描点是死点火）
 	  collapsed:: true
 		- 投掷：左键直接丢

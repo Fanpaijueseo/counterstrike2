@@ -1,4 +1,7 @@
-# 手雷
+public:: true
+
+- # 手雷
+  collapsed:: true
 	- ## 炸过点（防被抽和拿信息）
 	  collapsed:: true
 		- 投掷：跑着双键投掷
@@ -8,6 +11,7 @@
 			-
 -
 - # 闪光弹
+  collapsed:: true
 	- ## 不同位置的自保闪光
 		- ### 台阶上大箱角落
 		  collapsed:: true

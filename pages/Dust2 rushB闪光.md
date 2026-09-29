@@ -1,5 +1,7 @@
-## 高闪（实测方便好用）
-collapsed:: true
+public:: true
+
+- ## 高闪（实测方便好用）
+  collapsed:: true
 	- 投掷：跳投
 	- 站位：B通这个绿草上面
 	  collapsed:: true

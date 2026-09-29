@@ -1,5 +1,7 @@
-# 清理A小前点
-collapsed:: true
+public:: true
+
+- # 清理A小前点
+  collapsed:: true
 	- ## 出中路自助闪（防前压，需要烟）
 	  collapsed:: true
 		- 投掷：走路过程中右键跳投
@@ -31,6 +33,7 @@ collapsed:: true
 		- 描点：两个污渍中间为水平，垂直为两个污渍
 		  collapsed:: true
 			- ![image.png](../assets/image_1784020327033_0.png)
+-
 - # A小烟雾套餐
   collapsed:: true
 	- ## 贴墙跳一下
@@ -89,7 +92,9 @@ collapsed:: true
 		- 描点：右侧窗户平移到左面有一个很明显的白点
 			- ![image.png](../assets/image_1784021346108_0.png)
 			-
+-
 - # A小闪光
+  collapsed:: true
 	- ## Jame单向闪
 	  collapsed:: true
 		- 投掷：W+左键跳投

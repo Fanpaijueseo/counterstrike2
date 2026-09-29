@@ -1,5 +1,7 @@
-# 燃烧弹
-collapsed:: true
+public:: true
+
+- # 燃烧弹
+  collapsed:: true
 	- ## A1火（开局丢）
 	  collapsed:: true
 		- 投掷：跑着左键投掷
@@ -86,6 +88,7 @@ collapsed:: true
 		-
 -
 - # 烟雾弹
+  collapsed:: true
 	- ## B小补拱门烟
 	  collapsed:: true
 		- 投掷：左键直接丢

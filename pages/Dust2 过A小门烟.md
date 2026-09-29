@@ -1,4 +1,7 @@
-# 中门烟
+public:: true
+
+- # 中门烟
+  collapsed:: true
 	- ## 暗道
 	  collapsed:: true
 		- 投掷：左键跳投
@@ -24,6 +27,7 @@
 			-
 -
 - # 瀑布烟
+  collapsed:: true
 	- ## 龙哥瀑布烟
 	  collapsed:: true
 		- 投掷：蹲着瞄准后，蹲着左键跳投
@@ -72,7 +76,9 @@
 		  collapsed:: true
 			- ![image.png](../assets/image_1787388815746_0.png)
 			-
+-
 - # X箱烟
+  collapsed:: true
 	- ## 经典X箱烟
 	  collapsed:: true
 		- 投掷：蹲着瞄准，蹲着左键跳投

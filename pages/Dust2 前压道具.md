@@ -1,5 +1,7 @@
-# B1层
-collapsed:: true
+public:: true
+
+- # B1层
+  collapsed:: true
 	- ## 保护烟
 		- 投掷：跑着双键直接丢
 		- 站位：警家烟的那个箱子附近

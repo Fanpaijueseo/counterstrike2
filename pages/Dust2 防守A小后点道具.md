@@ -1,4 +1,7 @@
-# 闪光弹
+public:: true
+
+- # 闪光弹
+  collapsed:: true
 	- ## 还没过空调
 		- ### G2反清闪
 		  collapsed:: true

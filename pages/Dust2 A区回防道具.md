@@ -1,4 +1,7 @@
-# 烟雾弹
+public:: true
+
+- # 烟雾弹
+  collapsed:: true
 	- ## 回防展开烟
 	  collapsed:: true
 		- 投掷：左键直接丢
@@ -8,6 +11,7 @@
 			- ![image.png](../assets/image_1784510822732_0.png){:height 308, :width 533}
 -
 - # 闪光弹
+  collapsed:: true
 	- ## 窗户闪
 	  collapsed:: true
 		- 投掷：左键直接丢
@@ -21,6 +25,7 @@
 			-
 -
 - # 燃烧弹/手雷
+  collapsed:: true
 	- ## 包点雷火
 	  collapsed:: true
 		- 投掷：双键跳投

@@ -1,4 +1,7 @@
-# 燃烧弹/手雷
+public:: true
+
+- # 燃烧弹/手雷
+  collapsed:: true
 	- ## B1火
 	  collapsed:: true
 		- 投掷：W跑着左键投掷
@@ -18,6 +21,7 @@
 			- ![image.png](../assets/image_1784119685510_0.png)
 			-
 - # 闪光弹
+  collapsed:: true
 	- ## 清中路
 	  collapsed:: true
 		- ### Apex闪

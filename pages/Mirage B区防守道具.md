@@ -1,4 +1,6 @@
-# 燃烧弹
+public:: true
+
+- # 燃烧弹
 	- ## 厨房火
 	  collapsed:: true
 		- 投掷：W跑两步左键投掷

@@ -1,5 +1,7 @@
-## 左侧高闪（综合效果可以，会漏一点身位）
-collapsed:: true
+public:: true
+
+- ## 左侧高闪（综合效果可以，会漏一点身位）
+  collapsed:: true
 	- 投掷：蹲着跳投
 	- 站位：贴紧左侧凹槽
 	  collapsed:: true

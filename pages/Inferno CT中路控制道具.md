@@ -1,4 +1,7 @@
-# 烟雾弹
+public:: true
+
+- # 烟雾弹
+  collapsed:: true
 	- ## 快Faze烟
 	  collapsed:: true
 		- 站位：如图所示
@@ -54,7 +57,9 @@
 			- 描点：最高的红花
 				- ![image.png](../assets/image_1786778453278_0.png)
 				-
+-
 - # 闪光弹
+  collapsed:: true
 	- ## 中门闪
 	  collapsed:: true
 		- ### 顺闪

@@ -1,4 +1,7 @@
-# 烟雾弹
+public:: true
+
+- # 烟雾弹
+  collapsed:: true
 	- ## Kxysan跳台&上下
 	  collapsed:: true
 		- 投掷：均为左键跳投
@@ -82,6 +85,7 @@
 			- ![image.png](../assets/image_1787388046730_0.png)
 -
 - # 闪光弹
+  collapsed:: true
 	- ## 改良灯柱闪（白跳台）
 	  collapsed:: true
 		- 投掷：左键直接丢
@@ -119,6 +123,7 @@
 		-
 -
 - # 燃烧弹
+  collapsed:: true
 	- ## 三明治火
 	  collapsed:: true
 		- 投掷：左键直接丢

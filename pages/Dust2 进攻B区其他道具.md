@@ -1,4 +1,7 @@
-# 烟雾弹
+public:: true
+
+- # 烟雾弹
+  collapsed:: true
 	- ## Ropz展开烟（完美中间，左右均可混）
 	  collapsed:: true
 		- 投掷：直接丢
@@ -9,6 +12,7 @@
 			-
 -
 - # 燃烧弹
+  collapsed:: true
 	- ## 近点+假门双烧火
 	  collapsed:: true
 		- 投掷：蹲着描点，后走半步投掷（差不多到中间）

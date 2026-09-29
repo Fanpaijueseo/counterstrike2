@@ -1,5 +1,8 @@
-# 烟雾弹
+public:: true
+
+- # 烟雾弹
 	- ## 补摩托烟
+	  collapsed:: true
 		- ### 大坑
 		  collapsed:: true
 			- 投掷：左键直接丢

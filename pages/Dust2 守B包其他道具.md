@@ -1,4 +1,7 @@
-# 闪光弹（清理沙地）
+public:: true
+
+- # 闪光弹（清理沙地）
+  collapsed:: true
 	- ## B包狗洞箱子
 		- ### 最顺手的
 		  collapsed:: true

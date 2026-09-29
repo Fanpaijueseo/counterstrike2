@@ -1,4 +1,7 @@
-# 闪光弹
+public:: true
+
+- # 闪光弹
+  collapsed:: true
 	- ## 前身位防rush闪光（同投掷方式可以用雷）
 	  collapsed:: true
 		- 投掷：跑丢
@@ -36,6 +39,7 @@
 			- ![image.png](../assets/image_1783929878951_0.png)
 -
 - # 烟雾弹
+  collapsed:: true
 	- ## B1补X箱烟（可以留中路门缝）
 	  collapsed:: true
 		- 投掷：左键直接
@@ -68,7 +72,9 @@
 			- ![image.png](../assets/image_1783930542398_0.png)
 			-
 	-
+-
 - # 燃烧弹
+  collapsed:: true
 	- ## 清B1里侧
 	  collapsed:: true
 		- 投掷：（W走一步）左键直接丢

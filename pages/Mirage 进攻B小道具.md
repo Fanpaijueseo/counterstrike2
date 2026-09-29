@@ -1,4 +1,7 @@
-# 燃烧弹
+public:: true
+
+- # 燃烧弹
+  collapsed:: true
 	- ## 黑屋火
 	  collapsed:: true
 		- ### Zweih火
@@ -34,8 +37,9 @@
 				- ![image.png](../assets/image_1784723151992_0.png)
 				-
 		-
-- 我
+-
 - # 闪光弹
+  collapsed:: true
 	- ## 蒙古闪
 		- 投掷：左键直接丢
 		- 站位：板凳后侧

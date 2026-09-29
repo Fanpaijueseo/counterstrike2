@@ -1,4 +1,7 @@
-# 烟雾弹
+public:: true
+
+- # 烟雾弹
+  collapsed:: true
 	- ## 过点烟
 	  collapsed:: true
 		- ### 慢过点烟
@@ -223,6 +226,7 @@
 			-
 -
 - # 闪光弹
+  collapsed:: true
 	- ## Wdf拱门闪
 		- 投掷：左键直接丢
 		- 站位：箱子上端和木条距离相同

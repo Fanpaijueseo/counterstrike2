@@ -1,4 +1,7 @@
-# 闪光弹
+public:: true
+
+- # 闪光弹
+  collapsed:: true
 	- ## 蓝箱自助闪
 	  collapsed:: true
 		- 投掷：左键直接丢
@@ -17,6 +20,7 @@
 			-
 -
 - # 烟雾弹
+  collapsed:: true
 	- ## A大警家过点烟
 	  collapsed:: true
 		- ### 蓝箱丢（防顶）
@@ -61,6 +65,7 @@
 			-
 -
 - # 燃烧弹
+  collapsed:: true
 	- ## 包点火
 		- ### 厕所丢
 		  collapsed:: true

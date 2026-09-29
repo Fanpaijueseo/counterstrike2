@@ -1,5 +1,7 @@
-# B门烟
-collapsed:: true
+public:: true
+
+- # B门烟
+  collapsed:: true
 	- ## B通
 	  collapsed:: true
 		- 投掷：走一步跳投

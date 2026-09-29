@@ -1,4 +1,7 @@
-# 一、T方进攻道具
+public:: true
+
+- # 一、T方进攻道具
+  collapsed:: true
 	- ## B区
 		- [[Inferno 香蕉道进攻道具]]
 		- [[Inferno B点爆弹道具]]
@@ -6,7 +9,9 @@
 		- [[Inferno T中路控制道具]]
 		- [[Inferno A区进攻道具]]
 		- [[Inferno A区守包道具]]
+-
 - # 二、CT方防守道具
+  collapsed:: true
 	- ## 中路
 	  collapsed:: true
 		- [[Inferno CT中路控制道具]]

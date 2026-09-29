@@ -1,4 +1,7 @@
-# 烟雾弹
+public:: true
+
+- # 烟雾弹
+  collapsed:: true
 	- ## Jungle烟（配闪光）
 		- ### 匪口丢
 			- 投掷：左键跳投

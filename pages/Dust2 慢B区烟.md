@@ -1,4 +1,7 @@
-# 双烟组合
+public:: true
+
+- # 双烟组合
+  collapsed:: true
 	- ## 组合一（综合已被淘汰）
 	  collapsed:: true
 		- 投掷：两个描点均为跳投
@@ -37,6 +40,7 @@
 			- ![image.png](../assets/image_1787358717466_0.png)
 -
 - # B门烟
+  collapsed:: true
 	- ## B通小箱边（适合自助+组合闪）
 	  collapsed:: true
 		- 投掷：双键跳投
@@ -73,6 +77,7 @@
 -
 -
 - # 狗洞烟
+  collapsed:: true
 	- ## RW——B区进攻
 	  collapsed:: true
 		- 投掷：瞄准后，蹲下跳投

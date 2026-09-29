@@ -1,4 +1,7 @@
-# 燃烧弹/手雷
+public:: true
+
+- # 燃烧弹/手雷
+  collapsed:: true
 	- ## 蓝箱火
 	  collapsed:: true
 		- 投掷：拉满地速跑着左键丢
@@ -9,6 +12,7 @@
 			-
 -
 - # 烟雾弹
+  collapsed:: true
 	- ## A门烟
 	  collapsed:: true
 		- 投掷：蹲着跳投
@@ -18,6 +22,7 @@
 			-
 -
 - # 闪光弹
+  collapsed:: true
 	- ## 黑豹闪光（提醒背闪）
 	  collapsed:: true
 		- 投掷：W+跳投

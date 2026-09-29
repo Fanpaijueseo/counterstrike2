@@ -1,4 +1,7 @@
-# 烟雾弹
+public:: true
+
+- # 烟雾弹
+  collapsed:: true
 	- ## A大保护烟
 		- ### Jame烟
 		  collapsed:: true
@@ -69,6 +72,7 @@
 				-
 		-
 - # 闪光弹
+  collapsed:: true
 	- ## 一出A大闪
 	  collapsed:: true
 		- 投掷：左键跳投

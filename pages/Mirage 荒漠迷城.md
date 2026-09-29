@@ -1,4 +1,7 @@
-# 一、T方进攻道具
+public:: true
+
+- # 一、T方进攻道具
+  collapsed:: true
 	- ## 中路
 		- [[Mirage t控中道具]]
 		-
@@ -11,7 +14,9 @@
 		- [[Mirage A区爆弹]]
 		- [[Mirage 进攻拱门道具]]
 		-
+-
 - # 二、CT方防守道具
+  collapsed:: true
 	- ## 中路
 		- [[Mirage ct控中道具]]
 		-

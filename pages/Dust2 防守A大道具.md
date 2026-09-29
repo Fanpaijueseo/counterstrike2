@@ -1,4 +1,7 @@
-# 烟雾弹
+public:: true
+
+- # 烟雾弹
+  collapsed:: true
 	- ## 大坑补A门烟
 	  collapsed:: true
 		- 投掷：W走几步+左键投掷
@@ -62,6 +65,7 @@
 				-
 -
 - # 闪光弹
+  collapsed:: true
 	- ## 大坑自助保命闪
 	  collapsed:: true
 		- 投掷：W走一步左键投掷

@@ -1,5 +1,7 @@
-# 烟雾弹
-collapsed:: true
+public:: true
+
+- # 烟雾弹
+  collapsed:: true
 	- ## 小蜜蜂灭火（石板近点）烟
 	  collapsed:: true
 		- 投掷：W+左键跳投
@@ -72,7 +74,9 @@ collapsed:: true
 			-
 -
 - # 雷火
+  collapsed:: true
 	- ## 凹槽火
+	  collapsed:: true
 		- 投掷：W跑着左键直接丢（速度拉快）
 		- 站位：石板后面贴近右墙
 		- 描点：黄墙里侧
@@ -89,6 +93,7 @@ collapsed:: true
 			-
 	-
 	- ## 树位凹槽火
+	  collapsed:: true
 		- 投掷：左键直接丢
 		- 站位：中路矮墙后
 		- 描点：红花上拉到枝

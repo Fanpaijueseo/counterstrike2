@@ -1,5 +1,7 @@
-# 手雷
-collapsed:: true
+public:: true
+
+- # 手雷
+  collapsed:: true
 	- ## vip炸烟雷
 		- ### Zywoo右侧炸烟雷（第一时间丢）
 		  collapsed:: true
@@ -24,6 +26,7 @@ collapsed:: true
 			- 描点：视角拉到最上面，丢完跑到右面
 -
 - # 闪光弹
+  collapsed:: true
 	- ## 长箱闪（第一时间让对面缓慢一点）
 	  collapsed:: true
 		- 投掷：左键跑着跳投

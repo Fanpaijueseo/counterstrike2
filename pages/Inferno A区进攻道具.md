@@ -1,4 +1,7 @@
-# 烟雾弹
+public:: true
+
+- # 烟雾弹
+  collapsed:: true
 	- ## 摩托烟
 	  collapsed:: true
 		- ### 匪口丢
@@ -168,6 +171,7 @@
 				-
 -
 - # 闪光弹
+  collapsed:: true
 	- ## 飞楼闪
 	  collapsed:: true
 		- ### 二楼丢
@@ -213,18 +217,24 @@
 				- ![image.png](../assets/image_1786811782831_0.png)
 	-
 	- ## A1进攻组合闪——YGG
+	  collapsed:: true
 		- ### 包点自助闪光
+		  collapsed:: true
 			- 投掷：W跑过左墙消失后左键跳投
 			- 站位：锅炉房口
+			  collapsed:: true
 				- ![image.png](../assets/image_1786778049698_0.png)
 			- 描点：白砖缺口处
+			  collapsed:: true
 				- ![image.png](../assets/image_1786778057297_0.png)
 				-
 		-
 		- ### 爆点在二楼台阶闪光
+		  collapsed:: true
 			- 投掷：双键跳投
 			- 站位：马棚下外面柱子
 			- 描点：草车最外面的石头
+			  collapsed:: true
 				- ![image.png](../assets/image_1786778132736_0.png){:height 291, :width 503}
 				-
 	-

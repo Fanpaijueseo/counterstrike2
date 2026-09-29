@@ -1,4 +1,7 @@
-# 烟雾弹
+public:: true
+
+- # 烟雾弹
+  collapsed:: true
 	- ## 补窗口烟
 		- ### 玩机器位
 		  collapsed:: true

@@ -1,5 +1,7 @@
-# 烟雾弹
-collapsed:: true
+public:: true
+
+- # 烟雾弹
+  collapsed:: true
 	- ## T字路口烟
 	  collapsed:: true
 		- ### 匪口丢
@@ -29,6 +31,7 @@ collapsed:: true
 	- ## 链接烟
 	  collapsed:: true
 		- ### 快链接烟
+		  collapsed:: true
 			- 投掷：跑着过了电线杆左键跳投
 			- 站位：中间这个台阶线
 			  collapsed:: true
@@ -130,6 +133,7 @@ collapsed:: true
 		  collapsed:: true
 			- ![image.png](../assets/image_1786811667386_0.png)
 			-
+-
 - # 闪光弹
   collapsed:: true
 	- ## A1闪光（不白架缝）
@@ -163,7 +167,9 @@ collapsed:: true
 		  collapsed:: true
 			- ![image.png](../assets/image_1786808324631_0.png)
 			-
+-
 - # 燃烧弹
+  collapsed:: true
 	- ## 链接大凹槽
 	  collapsed:: true
 		- 投掷：左键直接丢

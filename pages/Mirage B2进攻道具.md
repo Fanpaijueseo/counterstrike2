@@ -1,4 +1,7 @@
-# 烟雾弹
+public:: true
+
+- # 烟雾弹
+  collapsed:: true
 	- ## 超市窗口烟
 		- ### 中间丢
 			- 投掷：左键跳投
@@ -23,7 +26,9 @@
 		- 描点：眺望塔和红墙夹角左侧石墩
 			- ![image.png](../assets/image_1784687915448_0.png)
 			-
+-
 - # 闪光弹
+  collapsed:: true
 	- ## Kxysan组合闪
 	  collapsed:: true
 		- 投掷：均为左键跳投
@@ -40,7 +45,9 @@
 		- 描点：阴影右下角
 			- ![image.png](../assets/image_1784513574478_0.png)
 			-
+-
 - # 燃烧弹
+  collapsed:: true
 	- ## 白车上下火
 	  collapsed:: true
 		- 投掷：左键直接丢
