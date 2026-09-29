@@ -11,18 +11,17 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
+      # 使用官方 Action 导出网页，更稳定，不会有404问题
+      - name: Build Logseq SPA
+        uses: logseq/publish-spa@v0.3.0
         with:
-          node-version: 18
+          graph-directory: .
+          output-directory: public
 
-      - name: Install dependencies and build
-        run: |
-          # 使用官方工具把你的 Logseq 图谱导出为静态网页
-          npx @logseq/publish-spa@latest . public
-          # 加一个空文件跳过 Jekyll 处理，防止网页资源失效
-          touch public/.nojekyll
+      - name: Add .nojekyll
+        run: touch public/.nojekyll
 
+      # 部署到 gh-pages 分支
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
