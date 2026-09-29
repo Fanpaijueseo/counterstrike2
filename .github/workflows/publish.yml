@@ -1,0 +1,30 @@
+name: Publish Logseq graph
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install dependencies and build
+        run: |
+          # 使用官方工具把你的 Logseq 图谱导出为静态网页
+          npx @logseq/publish-spa@latest . public
+          # 加一个空文件跳过 Jekyll 处理，防止网页资源失效
+          touch public/.nojekyll
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
