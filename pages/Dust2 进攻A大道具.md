@@ -35,7 +35,6 @@
 				-
 	-
 	- ## A小隔段烟
-	  collapsed:: true
 		- #### 油桶丢
 		  collapsed:: true
 			- 投掷：左键直接丢

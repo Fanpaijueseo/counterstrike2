@@ -59,8 +59,7 @@
 		- 投掷：左键直接丢
 		- 站位：匪跳最下面
 		- 描点：第一颗上，正方形右下角一点；第二颗下，阴影中间
-		  collapsed:: true
-			- ![image.png](../assets/image_1786537232038_0.png)
+			- ![image.png](../assets/image_1786537232038_0.png){:height 308, :width 533}
 			- ![image.png](../assets/image_1786537238816_0.png)
 			-
 	-

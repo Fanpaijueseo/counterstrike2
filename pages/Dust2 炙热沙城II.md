@@ -1,5 +1,4 @@
 # 一、T方进攻道具
-collapsed:: true
 	- ## B区
 		- ### B二层
 			- #### 1. Rush快攻道具

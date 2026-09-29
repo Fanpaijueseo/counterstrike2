@@ -1,5 +1,6 @@
 # 烟雾弹
 	- ## 大小坑隔段烟
+	  collapsed:: true
 		- ### 红信箱上丢PV
 		  collapsed:: true
 			- 投掷：双键跳投
@@ -16,10 +17,8 @@
 				-
 		-
 		- ### 红信箱下丢PV烟
-		  collapsed:: true
 			- 投掷：双键跳投
 			- 描点：木板竖条最右面，上半部分中间
-			  collapsed:: true
 				- ![image.png](../assets/image_1787104504138_0.png)
 -
 - # 燃烧弹

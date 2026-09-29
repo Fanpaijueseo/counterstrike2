@@ -8,6 +8,7 @@
 		- [[Inferno A区守包道具]]
 - # 二、CT方防守道具
 	- ## 中路
+	  collapsed:: true
 		- [[Inferno CT中路控制道具]]
 		-
 	- ## B区
@@ -16,4 +17,5 @@
 		- [[Inferno 香蕉道防守道具]]
 		- [[Inferno B区回防道具]]
 	- ## A区
+	  collapsed:: true
 		- [[Inferno A区回防道具]]
