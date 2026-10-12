@@ -1,9 +1,7 @@
 public:: true
 
 - # 烟雾弹
-  collapsed:: true
 	- ## 过点烟
-	  collapsed:: true
 		- ### 慢过点烟
 		  collapsed:: true
 			- #### 左侧丢
@@ -30,7 +28,6 @@ public:: true
 					-
 		-
 		- ### 快过点烟
-		  collapsed:: true
 			- ![image.png](../assets/image_1784099130841_0.png)
 			- #### 1号位
 			  collapsed:: true
@@ -41,11 +38,17 @@ public:: true
 			- #### 2号位（不丢，或者直接丢慢的右手）
 			- #### 3号位
 			  collapsed:: true
-				- 投掷：左键直接丢
-				- 描点：天线中间的右半黄色
+				- ##### 左键直接丢
 				  collapsed:: true
-					- ![image.png](../assets/image_1787037565852_0.png){:height 274, :width 473}
-					-
+					- 描点：天线中间的右半黄色
+					  collapsed:: true
+						- ![image.png](../assets/image_1787037565852_0.png){:height 274, :width 473}
+						-
+				- ##### 双键跳投
+				  collapsed:: true
+					- 描点：地毯旁边最粗竖线的底端
+					  collapsed:: true
+						- ![image.png](../assets/image_1791640802039_0.png)
 			- #### 4号位
 			  collapsed:: true
 				- 投掷：左键直接丢
@@ -62,11 +65,17 @@ public:: true
 					-
 			- #### 6号位
 			  collapsed:: true
-				- 投掷：W+双键跳投
-				- 描点：窗户红色和黄色的右上角交界处
+				- ##### W+双键跳投
 				  collapsed:: true
-					- ![image.png](../assets/image_1784099761725_0.png)
-					-
+					- 描点：窗户红色和黄色的右上角交界处
+					  collapsed:: true
+						- ![image.png](../assets/image_1784099761725_0.png)
+						-
+				- ##### 双键跳投
+				  collapsed:: true
+					- 描点：窗户右下角小矩形中间
+						- ![image.png](../assets/image_1791640876646_0.png)
+						-
 			- #### 7号位
 			  collapsed:: true
 				- 投掷：左键直接丢

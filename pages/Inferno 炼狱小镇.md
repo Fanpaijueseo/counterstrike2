@@ -11,7 +11,6 @@ public:: true
 		- [[Inferno A区守包道具]]
 -
 - # 二、CT方防守道具
-  collapsed:: true
 	- ## 中路
 	  collapsed:: true
 		- [[Inferno CT中路控制道具]]

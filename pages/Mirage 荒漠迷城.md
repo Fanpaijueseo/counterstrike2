@@ -1,7 +1,6 @@
 public:: true
 
 - # 一、T方进攻道具
-  collapsed:: true
 	- ## 中路
 		- [[Mirage t控中道具]]
 		-
