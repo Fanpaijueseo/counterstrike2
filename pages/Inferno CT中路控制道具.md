@@ -59,9 +59,7 @@ public:: true
 				-
 -
 - # 闪光弹
-  collapsed:: true
 	- ## 中门闪
-	  collapsed:: true
 		- ### 顺闪
 		  collapsed:: true
 			- 投掷：左键直接丢
@@ -81,6 +79,7 @@ public:: true
 				-
 		-
 		- ### A1自助闪光
+		  collapsed:: true
 			- 投掷：左键直接丢
 			- 站位：马棚前或者锅炉房口夹角
 			- 描点：砖块拱门第二高的砖块右上角
@@ -88,15 +87,25 @@ public:: true
 				-
 	-
 	- ## 侧道闪
-	  collapsed:: true
-		- 投掷：跑完整个花左键跳投
-		- 站位：侧道广告牌和路灯中间
+		- ### 更方便的
 		  collapsed:: true
-			- ![image.png](../assets/image_1786807351642_0.png)
-		- 描点：最左面的红花
+			- 投掷：W+左键跳投
+			- 站位：链接第二个凹槽的后面
+			- 描点：窗户左上角最明显的地方
+			  collapsed:: true
+				- ![image.png](../assets/image_1793099732350_0.png)
+				-
+		-
+		- ### 已淘汰
 		  collapsed:: true
-			- ![image.png](../assets/image_1786807366077_0.png)
-			-
+			- 投掷：跑完整个花左键跳投
+			- 站位：侧道广告牌和路灯中间
+			  collapsed:: true
+				- ![image.png](../assets/image_1786807351642_0.png)
+			- 描点：最左面的红花
+			  collapsed:: true
+				- ![image.png](../assets/image_1786807366077_0.png)
+				-
 	-
 	- ## 锅炉房闪
 	  collapsed:: true

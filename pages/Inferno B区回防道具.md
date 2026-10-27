@@ -1,5 +1,4 @@
 # 雷火
-collapsed:: true
 	- ## 不许教堂保枪
 	  collapsed:: true
 		- ### 一箱丢
@@ -13,7 +12,7 @@ collapsed:: true
 			- 投掷：左键直接丢
 			- 站位：喷泉兼棺材一侧的外侧凹槽
 			- 描点：窗户正上角落
-				- ![image.png](../assets/image_1786816547900_0.png)
+				- ![image.png](../assets/image_1786816547900_0.png){:height 291, :width 503}
 	-
 	- ## 三箱火
 	  collapsed:: true
@@ -37,7 +36,6 @@ collapsed:: true
 			-
 -
 - # 闪光弹
-  collapsed:: true
 	- ## 台下闪
 	  collapsed:: true
 		- 投掷：左键直接丢
@@ -47,6 +45,7 @@ collapsed:: true
 			-
 	-
 	- ## 高闪
+	  collapsed:: true
 		- ### 台下的上空爆
 		  collapsed:: true
 			- 投掷：随缘瞄准

@@ -3,7 +3,6 @@ public:: true
 - # 烟雾弹
   collapsed:: true
 	- ## 摩托烟
-	  collapsed:: true
 		- ### 匪口丢
 		  collapsed:: true
 			- 投掷：W+左键跳投

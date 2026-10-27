@@ -20,14 +20,11 @@
 				-
 	-
 	- ## 三封烟
-	  collapsed:: true
 		- ### 警家丢
-		  collapsed:: true
 			- 投掷：A+左键跳投
 			- 站位：警家双椅前面
 			- 描点：白粽窗户左面最竖直的栏杆中间
-			  collapsed:: true
-				- ![image.png](../assets/image_1786814096874_0.png)
+				- ![image.png](../assets/image_1786814096874_0.png){:height 291, :width 503}
 				-
 		-
 		- ### 树位丢
