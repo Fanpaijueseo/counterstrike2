@@ -135,7 +135,6 @@ public:: true
 			-
 -
 - # 闪光弹
-  collapsed:: true
 	- ## A1闪光（不白架缝）
 	  collapsed:: true
 		- 投掷：左键直接丢
@@ -157,39 +156,30 @@ public:: true
 			-
 	-
 	- ## 锅炉房闪
-	  collapsed:: true
 		- 投掷：蹲着左键直接丢
 		- 站位：侧道下水道一侧上方
-		  collapsed:: true
 			- ![image.png](../assets/image_1786808298217_0.png)
 			-
 		- 描点：L的拐角处
-		  collapsed:: true
-			- ![image.png](../assets/image_1786808324631_0.png)
+			- ![image.png](../assets/image_1786808324631_0.png){:height 308, :width 533}
 			-
 -
 - # 燃烧弹
-  collapsed:: true
 	- ## 链接大凹槽
 	  collapsed:: true
 		- 投掷：左键直接丢
 		- 站位：盖住这个右墙
-		  collapsed:: true
 			- ![image.png](../assets/image_1786691586050_0.png)
 		- 描点：左窗户下面深色区域的下面那个白砖中间
-		  collapsed:: true
 			- ![image.png](../assets/image_1786691673830_0.png)
 			-
 	-
 	- ## 马棚上下火
-	  collapsed:: true
 		- 投掷：左键直接丢
 		- 站位：路灯底部有个白班漏出来
-		  collapsed:: true
 			- ![image.png](../assets/image_1786691920372_0.png)
 		- 描点：房檐瓦片中间偏左一点
-		  collapsed:: true
-			- ![image.png](../assets/image_1786691936051_0.png)
+			- ![image.png](../assets/image_1786691936051_0.png){:height 308, :width 533}
 			-
 	-
 	- ## 锅炉房火（配合Ropz烟）

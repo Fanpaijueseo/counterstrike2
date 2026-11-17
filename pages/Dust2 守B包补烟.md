@@ -1,7 +1,6 @@
 public:: true
 
 - # B门烟
-  collapsed:: true
 	- ## B通
 	  collapsed:: true
 		- 投掷：走一步跳投
@@ -78,7 +77,6 @@ public:: true
 				-
 	-
 	- ## 狙位
-	  collapsed:: true
 		- 投掷：走一步左键丢
 		- 描点：房顶尖尖
 			- ![image.png](../assets/image_1783947052954_0.png)

@@ -1,13 +1,14 @@
 public:: true
 
 - # 烟雾弹
-  collapsed:: true
 	- ## Kxysan跳台&上下
 	  collapsed:: true
 		- 投掷：均为左键跳投
 		- 站位：抵住木条左端
+		  collapsed:: true
 			- ![image.png](../assets/image_1784688237567_0.png)
 		- 描点：第一颗为跳台上烟，为两根木条交点
+		  collapsed:: true
 		  第二颗为链接烟，为竖直木条右端
 			- ![image.png](../assets/image_1784688298048_0.png)
 			-
@@ -16,8 +17,10 @@ public:: true
 	  collapsed:: true
 		- 投掷：第一颗为双键跳投，第二颗为左键直接丢
 		- 站位：贴死最旁边的柱子
+		  collapsed:: true
 			- ![image.png](../assets/image_1784688606410_0.png)
 		- 描点：第一颗为跳台上烟，为砖块黑点
+		  collapsed:: true
 		  第二颗为链接烟，为上方石墩中间偏左
 			- ![image.png](../assets/image_1784688642130_0.png)
 			- ![image.png](../assets/image_1784688648732_0.png)
@@ -27,8 +30,10 @@ public:: true
 	  collapsed:: true
 		- 投掷：第一颗为左键直接丢，第二颗为左键跳投
 		- 站位：A1上面第二个木条前方
+		  collapsed:: true
 			- ![image.png](../assets/image_1784688785600_0.png)
 		- 描点：第一颗为跳台上烟，为-1y瞄准房顶黑点
+		  collapsed:: true
 		  第二颗为链接烟，为右下角砖块上方黑点
 			- ![image.png](../assets/image_1784688867824_0.png)
 			- ![image.png](../assets/image_1784688923740_0.png)
@@ -39,10 +44,13 @@ public:: true
 		  collapsed:: true
 			- ![image.png](../assets/image_1784688959555_0.png)
 		- 警家烟：左键跳投&-1y中间瞄准木条右端
+		  collapsed:: true
 			- ![image.png](../assets/image_1784689019378_0.png)
 		- 连接烟：左键跳投&路灯左上角
+		  collapsed:: true
 			- ![image.png](../assets/image_1784689057008_0.png)
 		- 跳台烟：描点后跑到位置丢&墙上黑斑到过了A1上面
+		  collapsed:: true
 			- ![image.png](../assets/image_1784689114492_0.png)
 			-
 	-
@@ -62,6 +70,7 @@ public:: true
 		- 投掷：左键直接丢
 		- 站位：匪跳最下面
 		- 描点：第一颗上，正方形右下角一点；第二颗下，阴影中间
+		  collapsed:: true
 			- ![image.png](../assets/image_1786537232038_0.png){:height 308, :width 533}
 			- ![image.png](../assets/image_1786537238816_0.png)
 			-
@@ -71,6 +80,7 @@ public:: true
 		- 投掷：左键跳投
 		- 站位：A1上面第二个木条前方
 		- 描点：第一根木条中间
+		  collapsed:: true
 			- ![image.png](../assets/image_1786799499289_0.png)
 			-
 	-

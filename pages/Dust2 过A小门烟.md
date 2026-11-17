@@ -3,7 +3,6 @@ public:: true
 - # 中门烟
   collapsed:: true
 	- ## 暗道
-	  collapsed:: true
 		- 投掷：左键跳投
 		- 站位：暗道抵住左下角的拐角
 		- 描点：两个污渍中间

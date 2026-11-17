@@ -26,7 +26,6 @@ public:: true
 			- 描点：视角拉到最上面，丢完跑到右面
 -
 - # 闪光弹
-  collapsed:: true
 	- ## 长箱闪（第一时间让对面缓慢一点）
 	  collapsed:: true
 		- 投掷：左键跑着跳投
@@ -58,7 +57,6 @@ public:: true
 	  collapsed:: true
 		- 投掷：走一步左键跳投
 		- 描点：忍者位上面木栏杆旁边
-		  collapsed:: true
 			- ![image.png](../assets/image_1785041871037_0.png)
 			-
 	-

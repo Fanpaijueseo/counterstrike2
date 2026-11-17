@@ -15,7 +15,6 @@ public:: true
 		-
 -
 - # 二、CT方防守道具
-  collapsed:: true
 	- ## 中路
 		- [[Mirage ct控中道具]]
 		-

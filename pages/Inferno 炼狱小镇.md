@@ -17,7 +17,7 @@ public:: true
 		- [[Inferno CT抢香蕉道]]
 		- [[Inferno B区反清道具]]
 		- [[Inferno 香蕉道防守道具]]
+		- [[Inferno B包点防守道具]]
 		- [[Inferno B区回防道具]]
 	- ## A区
-	  collapsed:: true
 		- [[Inferno A区回防道具]]

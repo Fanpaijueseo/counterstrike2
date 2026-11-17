@@ -60,6 +60,7 @@ public:: true
 -
 - # 闪光弹
 	- ## 中门闪
+	  collapsed:: true
 		- ### 顺闪
 		  collapsed:: true
 			- 投掷：左键直接丢
@@ -87,6 +88,7 @@ public:: true
 				-
 	-
 	- ## 侧道闪
+	  collapsed:: true
 		- ### 更方便的
 		  collapsed:: true
 			- 投掷：W+左键跳投
@@ -108,9 +110,17 @@ public:: true
 				-
 	-
 	- ## 锅炉房闪
-	  collapsed:: true
 		- 投掷：左键直接丢
 		- 站位：锅炉房口夹角
 		- 描点：路灯下的砖块右下角深色区域
 			- ![image.png](../assets/image_1786807710495_0.png)
+			-
+	-
+	- ## Zywoo前压闪
+	  collapsed:: true
+		- 投掷：W+左键跳投
+		- 站位：中路右手贴墙，漏出描点
+		- 描点：门框黑点的右边
+		  collapsed:: true
+			- ![image.png](../assets/image_1794363564110_0.png)
 			-

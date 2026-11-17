@@ -74,7 +74,6 @@ public:: true
 			-
 -
 - # 雷火
-  collapsed:: true
 	- ## 凹槽火
 	  collapsed:: true
 		- 投掷：W跑着左键直接丢（速度拉快）
@@ -85,7 +84,6 @@ public:: true
 			-
 	-
 	- ## 警家雷
-	  collapsed:: true
 		- 投掷：W跑到位置后左键跳投
 		- 站位：石板后面的凹槽
 		- 描点：先蹲着从下面的污渍往下一个准心，后站起来到上面污渍
@@ -94,8 +92,19 @@ public:: true
 	-
 	- ## 树位凹槽火
 	  collapsed:: true
-		- 投掷：左键直接丢
-		- 站位：中路矮墙后
-		- 描点：红花上拉到枝
-			- ![image.png](../assets/image_1786815622324_0.png)
-			-
+		- ### 中路矮墙前丢
+		  collapsed:: true
+			- 投掷：左键直接丢
+			- 描点：路灯尖尖上面到圆环中间
+			  collapsed:: true
+			  （稍微圆环左下面好一点，然后搜凹槽近点）
+				- ![image.png](../assets/image_1794927878330_0.png)
+		-
+		- ### 已弃用
+		  collapsed:: true
+			- 投掷：左键直接丢
+			- 站位：中路矮墙后
+			- 描点：红花上拉到枝
+			  collapsed:: true
+				- ![image.png](../assets/image_1786815622324_0.png)
+				-

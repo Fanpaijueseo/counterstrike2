@@ -1,9 +1,7 @@
 public:: true
 
 - # 一、T方进攻道具
-  collapsed:: true
 	- ## B区
-	  collapsed:: true
 		- ### B二层
 			- #### 1. Rush快攻道具
 				- [[Dust2 B区快烟]]
@@ -21,7 +19,6 @@ public:: true
 			- [[Dust2 守B包其他道具]]
 	-
 	- ## A区
-	  collapsed:: true
 		- ### A大
 			- [[Dust2 出A门道具]]
 			- [[Dust2 进攻A大道具]]
@@ -30,9 +27,7 @@ public:: true
 			- [[Dust2 进攻A小道具]]
 -
 - # 二、CT方防守道具
-  collapsed:: true
 	- ## B区
-	  collapsed:: true
 		- ### 主B
 			- [[Dust2 主B常用道具]]
 			-
@@ -41,7 +36,6 @@ public:: true
 			-
 	-
 	- ## A区
-	  collapsed:: true
 		- ### A大
 			- [[Dust2 抢A大常用道具]]
 			- [[Dust2 防守A大道具]]

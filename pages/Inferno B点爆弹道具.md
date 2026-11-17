@@ -106,7 +106,6 @@ public:: true
 	-
 -
 - # 石板上一点多爆
-  collapsed:: true
 	- ## 警家花坛烟
 	  collapsed:: true
 		- 投掷：双键跳投
@@ -117,9 +116,8 @@ public:: true
 	- ## 棺材烟
 	  collapsed:: true
 		- 投掷：左键跳投
-		- 描点：水平教堂黑色房檐中间，垂直下面瓦片
-		  collapsed:: true
-			- ![image.png](../assets/image_1786542338860_0.png)
+		- 描点：水平教堂黑色房檐中间下面的污点
+			- ![image.png](../assets/image_1794095614523_0.png)
 			-
 	-
 	- ## 喷泉闪
@@ -141,7 +139,7 @@ public:: true
 	  collapsed:: true
 		- 投掷：左键跳投
 		- 描点：C和l上方有个N
-			- ![image.png](../assets/image_1786542569125_0.png)
+			- ![image.png](../assets/image_1786542569125_0.png){:height 308, :width 533}
 			-
 	-
 	- ## 死点火
@@ -165,7 +163,6 @@ public:: true
 		  collapsed:: true
 			- ![image.png](../assets/image_1786542840582_0.png)
 		- 描点：I和O下面的E
-		  collapsed:: true
 			- ![image.png](../assets/image_1786542885788_0.png){:height 308, :width 533}
 			-
 -

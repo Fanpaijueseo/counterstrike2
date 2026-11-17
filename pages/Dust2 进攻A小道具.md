@@ -35,7 +35,6 @@ public:: true
 			- ![image.png](../assets/image_1784020327033_0.png)
 -
 - # A小烟雾套餐
-  collapsed:: true
 	- ## 贴墙跳一下
 	  collapsed:: true
 		- ### 新型蝴蝶烟
@@ -86,6 +85,7 @@ public:: true
 			-
 	-
 	- ## BC教练远点烟（被糊住也能用）
+	  collapsed:: true
 		- 投掷：W+左键跳投
 		- 站位：A小双架箱子的外侧
 			- ![image.png](../assets/image_1784021264033_0.png)

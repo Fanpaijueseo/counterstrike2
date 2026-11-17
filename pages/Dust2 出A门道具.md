@@ -1,18 +1,17 @@
 public:: true
 
 - # 烟雾弹
-  collapsed:: true
 	- ## A大保护烟
 		- ### Jame烟
-		  collapsed:: true
 			- 投掷：W+跳投
 			- 站位：匪家斜坡跳暗道的边缘
 			- 描点：房棱左侧的污渍最右侧
-				- ![image.png](../assets/image_1784011249558_0.png)
+				- ![image.png](../assets/image_1784011249558_0.png){:height 291, :width 503}
 				-
 		-
 		- ### 出生位快烟
 			- 站位：如图
+			  collapsed:: true
 				- ![image.png](../assets/image_1784011668501_0.png)
 			- #### 12号位
 			  collapsed:: true

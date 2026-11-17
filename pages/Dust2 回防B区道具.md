@@ -22,7 +22,6 @@ public:: true
 		-
 -
 - # 燃烧弹/手雷
-  collapsed:: true
 	- ## 大箱火各种丢法
 	  collapsed:: true
 		- ### Niko跑丢死donk
@@ -47,7 +46,6 @@ public:: true
 				-
 	-
 	- ## 台阶+高箱火
-	  collapsed:: true
 		- 投掷：瞄好点后s到底，双键投掷
 		- 站位：沙地去往狗洞台阶顶死
 		  collapsed:: true
@@ -59,13 +57,10 @@ public:: true
 			-
 	-
 	- ## 高箱包点火
-	  collapsed:: true
 		- 投掷：双键跳投
 		- 站位：沙地前面那个柱子
-		  collapsed:: true
 			- ![image.png](../assets/image_1784042593059_0.png)
 		- 描点：地下第一个石头
-		  collapsed:: true
 			- ![image.png](../assets/image_1784042619460_0.png){:height 308, :width 533}
 			-
 -

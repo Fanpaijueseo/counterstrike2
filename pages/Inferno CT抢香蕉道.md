@@ -1,6 +1,5 @@
 # 烟雾弹
 	- ## 匪口烟
-	  collapsed:: true
 		- ### 警家丢
 		  collapsed:: true
 			- 投掷：左键跳投
@@ -21,6 +20,7 @@
 	-
 	- ## 三封烟
 		- ### 警家丢
+		  collapsed:: true
 			- 投掷：A+左键跳投
 			- 站位：警家双椅前面
 			- 描点：白粽窗户左面最竖直的栏杆中间
@@ -31,16 +31,13 @@
 		  collapsed:: true
 			- 投掷：双键直接丢
 			- 描点：两个白色物件之间
-			  collapsed:: true
-				- ![image.png](../assets/image_1786814293018_0.png)
+				- ![image.png](../assets/image_1786814293018_0.png){:height 291, :width 503}
 				-
 		-
 		- ### 凹槽丢
-		  collapsed:: true
 			- 投掷：左键直接丢
 			- 描点：左下白痕迹中间
-			  collapsed:: true
-				- ![image.png](../assets/image_1786814239588_0.png)
+				- ![image.png](../assets/image_1786814239588_0.png){:height 291, :width 503}
 				-
 	-
 	- ## 灭火烟
@@ -65,7 +62,7 @@
 		- 站位：水管在红墙和黄墙中间
 		- 描点：水管最顶端
 		  collapsed:: true
-			- ![image.png](../assets/image_1786815079477_0.png)
+			- ![image.png](../assets/image_1786815079477_0.png){:height 308, :width 533}
 			-
 	-
 	- ## 凹槽雷火
@@ -83,16 +80,14 @@
 			-
 - # 闪光弹
 	- ## 匪口顺闪
-	  collapsed:: true
 		- 投掷：左键直接丢
 		- 站位：垂直于石板
 		- 描点：右下角窗户群的左上角
 			- ![image.png](../assets/image_1786815777178_0.png)
 	-
 	- ## 清理凹槽树位闪
-	  collapsed:: true
 		- 投掷：左键直接丢
 		- 站位：黄墙角落
 		- 描点：树位上窗户左上角和树位上拱门的连线中点
-			- ![image.png](../assets/image_1786815915656_0.png)
+			- ![image.png](../assets/image_1786815915656_0.png){:height 308, :width 533}
 			-

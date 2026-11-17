@@ -1,24 +1,27 @@
 public:: true
 
 - # 烟雾弹
-  collapsed:: true
 	- ## 摩托烟
+	  collapsed:: true
 		- ### 匪口丢
 		  collapsed:: true
 			- 投掷：W+左键跳投
 			- 站位：匪口中路最右后方
+			  collapsed:: true
 				- ![image.png](../assets/image_1786692523895_0.png)
 			- 描点：黑色第二个点
-				- ![image.png](../assets/image_1786692542028_0.png)
+				- ![image.png](../assets/image_1786692542028_0.png){:height 291, :width 503}
 				-
 		-
 		- ### 中路近点丢
 		  collapsed:: true
 			- 投掷：左键直接丢
 			- 站位：两个缝隙之间都可以
+			  collapsed:: true
 				- ![image.png](../assets/image_1786692595513_0.png)
 				-
 			- 描点：两个房檐交点
+			  collapsed:: true
 				- ![image.png](../assets/image_1786692613018_0.png)
 				-
 		-
@@ -27,6 +30,7 @@ public:: true
 			- 投掷：左键跳投
 			- 站位：白门后
 			- 描点：竖直天线顶端
+			  collapsed:: true
 				- ![image.png](../assets/image_1786692649850_0.png)
 				-
 		-
@@ -35,9 +39,11 @@ public:: true
 			- #### 水管小蜜蜂
 			  collapsed:: true
 				- 站位：矮墙前水管
+				  collapsed:: true
 					- ![image.png](../assets/image_1786692932728_0.png)
 				- 投掷：左键跳投
 				- 描点：灯泡最下面
+				  collapsed:: true
 					- ![image.png](../assets/image_1786692961038_0.png)
 					-
 			-
@@ -45,27 +51,27 @@ public:: true
 			  collapsed:: true
 				- 投掷：描点后蹲着左键跳投
 				- 描点：灯泡最下面
-					- ![image.png](../assets/image_1786693016637_0.png)
+					- ![image.png](../assets/image_1786693016637_0.png){:height 274, :width 473}
 					-
 			-
 			- #### 下水道前MAKA
 			  collapsed:: true
 				- 站位：下水道上面面对中路
+				  collapsed:: true
 					- ![image.png](../assets/image_1786693059087_0.png)
 				- 投掷：左键跳投
 				- 描点：灯泡最下面
-					- ![image.png](../assets/image_1786693073784_0.png)
+					- ![image.png](../assets/image_1786693073784_0.png){:height 274, :width 473}
 					-
 		-
 		- ### 匪二楼丢
-		  collapsed:: true
 			- 投掷：W+左键跳投
 			- 站位：匪二楼右后方死角
 			  collapsed:: true
 				- ![image.png](../assets/image_1787153153048_0.png)
 			- 描点：从左向右第三个的端头右下角
 			  collapsed:: true
-				- ![image.png](../assets/image_1787153264026_0.png)
+				- ![image.png](../assets/image_1787153264026_0.png){:height 291, :width 503}
 				-
 	-
 	- ## 拱门烟
@@ -79,33 +85,28 @@ public:: true
 			-
 		-
 		- ### 匪口丢
-		  collapsed:: true
 			- 投掷：左键跳投
 			- 站位：中路矮墙后
 			- 描点：头顶第一个结点和第二个结点之间
-			  collapsed:: true
-				- ![image.png](../assets/image_1786813089705_0.png)
+				- ![image.png](../assets/image_1786813089705_0.png){:height 291, :width 503}
 				-
 	-
 	- ## 草车烟
 	  collapsed:: true
 		- ### 二楼丢
-		  collapsed:: true
 			- 投掷：左键直接丢
 			- 站位：暖气片前面
 			- 描点：小花盆三个交点
-				- ![image.png](../assets/image_1786777484522_0.png)
+				- ![image.png](../assets/image_1786777484522_0.png){:height 291, :width 503}
 				-
 		-
 		- ### 匪二楼丢
-		  collapsed:: true
 			- 投掷：左键跳投
 			- 站位：匪二楼右后方死角
 			  collapsed:: true
 				- ![image.png](../assets/image_1787153153048_0.png)
 			- 描点：L右上方的小黑点
-			  collapsed:: true
-				- ![image.png](../assets/image_1787153134723_0.png)
+				- ![image.png](../assets/image_1794483216383_0.png)
 				-
 	-
 	- ## 展开烟（隔绝大小坑）
@@ -127,8 +128,8 @@ public:: true
 				-
 -
 - # 燃烧弹
-  collapsed:: true
 	- ## 阳台火
+	  collapsed:: true
 		- ### 锅炉房丢
 		  collapsed:: true
 			- 投掷：左键直接丢
@@ -148,9 +149,7 @@ public:: true
 				-
 	-
 	- ## 大坑火
-	  collapsed:: true
 		- ### 蒙古火
-		  collapsed:: true
 			- 投掷：按住W跑着走到过绿色牌子时左键跳投
 			- 站位：二楼最后面左边
 			- 描点：绿草左下面黑白黄交界处，
@@ -224,16 +223,13 @@ public:: true
 			  collapsed:: true
 				- ![image.png](../assets/image_1786778049698_0.png)
 			- 描点：白砖缺口处
-			  collapsed:: true
-				- ![image.png](../assets/image_1786778057297_0.png)
+				- ![image.png](../assets/image_1786778057297_0.png){:height 291, :width 503}
 				-
 		-
 		- ### 爆点在二楼台阶闪光
-		  collapsed:: true
 			- 投掷：双键跳投
 			- 站位：马棚下外面柱子
 			- 描点：草车最外面的石头
-			  collapsed:: true
 				- ![image.png](../assets/image_1786778132736_0.png){:height 291, :width 503}
 				-
 	-

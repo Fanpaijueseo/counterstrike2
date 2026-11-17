@@ -1,18 +1,28 @@
 # 雷火
 	- ## 不许教堂保枪
-	  collapsed:: true
 		- ### 一箱丢
 		  collapsed:: true
 			- 投掷：左键跳投
 			- 站位：一箱台阶处
 			- 描点：窗户下和深色线条旁的深色方块右下角
 				- ![image.png](../assets/image_1786816489698_0.png)
+		-
 		- ### 喷泉丢
 		  collapsed:: true
 			- 投掷：左键直接丢
 			- 站位：喷泉兼棺材一侧的外侧凹槽
 			- 描点：窗户正上角落
 				- ![image.png](../assets/image_1786816547900_0.png){:height 291, :width 503}
+		-
+		- ### 沙袋丢
+		  collapsed:: true
+			- 投掷：W走过黄墙左键跳投
+			- 站位：沙袋箱子
+			- 描点：教堂洞下面墙，从上往下第3&4行砖块中间
+			  collapsed:: true
+				- ![image.png](../assets/image_1794095360328_0.png)
+				-
+	-
 	-
 	- ## 三箱火
 	  collapsed:: true

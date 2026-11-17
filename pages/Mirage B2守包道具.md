@@ -1,7 +1,6 @@
 public:: true
 
 - # 烟雾弹
-  collapsed:: true
 	- ## 补窗口烟
 		- ### 玩机器位
 		  collapsed:: true
@@ -33,13 +32,11 @@ public:: true
 					-
 		-
 		- ### B小包位
-		  collapsed:: true
 			- 投掷：左键跳投
 			- 站位：这个大箱子的左边杆
 				- ![image.png](../assets/image_1784515832326_0.png)
 			- 描点：砖块右下角的深色污渍
-			  collapsed:: true
-				- ![image.png](../assets/image_1784515858694_0.png)
+				- ![image.png](../assets/image_1784515858694_0.png){:height 291, :width 503}
 				-
 	-
 	- ## 补门口烟
