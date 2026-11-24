@@ -21,6 +21,7 @@ public:: true
 -
 - # 烟雾弹
 	- ## A大警家过点烟
+	  collapsed:: true
 		- ### 蓝箱丢（防顶）
 			- 投掷：双键跳投
 			- 站位：蓝箱与旁边小箱子夹角
@@ -37,11 +38,12 @@ public:: true
 				-
 	-
 	- ## A小隔段烟
-	  collapsed:: true
 		- #### 油桶丢
+		  collapsed:: true
 			- 投掷：左键直接丢
 			- 站位：油桶上，也需要顶死
 			- 描点：房檐向上到电线交界处
+			  collapsed:: true
 				- ![image.png](../assets/image_1784016159757_0.png)
 				-
 		-
@@ -50,7 +52,7 @@ public:: true
 			- 投掷：双键跳投
 			- 站位：蓝箱和旁边小箱子的夹角
 			- 描点：蓝箱上端缝隙的黑色线条顶端
-				- ![image.png](../assets/image_1784016410625_0.png)
+				- ![image.png](../assets/image_1784016410625_0.png){:height 291, :width 503}
 				-
 	-
 	- ## Flamez快警家烟

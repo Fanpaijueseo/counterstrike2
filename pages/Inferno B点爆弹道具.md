@@ -14,16 +14,14 @@ public:: true
 	  collapsed:: true
 		- 投掷：双键跳投
 		- 描点：e的夹角向下拉到白色斜区域
-		  collapsed:: true
-			- ![image.png](../assets/image_1786540679519_0.png)
+			- ![image.png](../assets/image_1786540679519_0.png){:height 308, :width 533}
 			-
 	-
 	- ## 棺材烟
 	  collapsed:: true
 		- 投掷：双键跳投
 		- 描点：小竖线右上角一点点点点
-		  collapsed:: true
-			- ![image.png](../assets/image_1787104878002_0.png)
+			- ![image.png](../assets/image_1787104878002_0.png){:height 308, :width 533}
 	-
 	- ## 二箱火（可以烧到一箱上）
 	  collapsed:: true
@@ -43,12 +41,10 @@ public:: true
 		- 描点：灯泡顶端向右上角拉到房檐下面平齐
 -
 - # 石板前一点多爆
-  collapsed:: true
 	- ## 警家花坛烟
 	  collapsed:: true
 		- 投掷：左键直接丢
 		- 描点：中间窗户的左面半侧向上平移到房檐顶端
-		  collapsed:: true
 			- ![image.png](../assets/image_1786541275226_0.png)
 			-
 	-
@@ -70,8 +66,7 @@ public:: true
 	  collapsed:: true
 		- 投掷：左键跳投
 		- 描点：栏杆下面的小白檐
-		  collapsed:: true
-			- ![image.png](../assets/image_1786542735676_0.png)
+			- ![image.png](../assets/image_1786542735676_0.png){:height 308, :width 533}
 	-
 	- ## 花坛单向闪
 	  collapsed:: true
@@ -100,12 +95,12 @@ public:: true
 	  collapsed:: true
 		- 投掷：左键跳投
 		- 描点：红箭头左端尖尖左面的L裂纹交界处
-		  collapsed:: true
 			- ![image.png](../assets/image_1786542067595_0.png)
 			-
 	-
 -
 - # 石板上一点多爆
+  collapsed:: true
 	- ## 警家花坛烟
 	  collapsed:: true
 		- 投掷：双键跳投
@@ -180,6 +175,12 @@ public:: true
 		- 描点：教堂左上角向左拉一个准心
 			- ![image.png](../assets/image_1786543027775_0.png)
 	-
+	- ## 棺材烟
+	  collapsed:: true
+		- 投掷：左键直接丢
+		- 描点：烟雾弹头抵住花坛右侧
+			- ![image.png](../assets/image_1795489100299_0.png)
+	-
 	- ## 启动闪
 	  collapsed:: true
 		- 投掷：左键跳投
@@ -220,5 +221,22 @@ public:: true
 		- 投掷：W+左键跳投
 		- 描点：右侧两个手指头下拉到黄墙底端
 			- ![image.png](../assets/image_1786545528150_0.png)
+			-
+-
+- # 红门一点多爆
+  collapsed:: true
+	- ## 警家烟
+	  collapsed:: true
+		- 投掷：W+双键跳投
+		- 描点：房檐夹角的小杆子下端
+		  collapsed:: true
+			- ![image.png](../assets/image_1795488970426_0.png)
+			-
+	-
+	- ## 棺材烟
+	  collapsed:: true
+		- 投掷：W+双键跳投
+		- 描点：左上角第一个瓦片和第二个瓦片中间
+			- ![image.png](../assets/image_1795489006119_0.png)
 			-
 -
